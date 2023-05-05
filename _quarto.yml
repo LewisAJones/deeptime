@@ -1,5 +1,54 @@
 project:
-  title: "deeptime"
+  type: website
+
+execute:
+  freeze: auto
+
+website:
+  title: "Origins"
+  description: "When did things originate?"
+  image: "assets/images/dinosaur-extinction.png"
+  favicon: "assets/favicon.png"
+  open-graph:
+    image: "assets/images/dinosaur-extinction.png"
+    image-width: 500
+    image-height: 500
+    locale: en-GB
+  twitter-card:
+    title: "Origins"
+    description: "When did things originate?"
+    image: "assets/images/dinosaur-extinction.png"
+    image-width: 500
+    image-height: 500
+    card-style: summary
+    creator: "@LewisAlanJones"
+    site: "@LewisAlanJones"
+  navbar:
+    title: '> LEWIS A. JONES&nbsp;&nbsp;<span class="blink-box"></span>'
+    foreground: "#00bc8c"
+    background: "black"
+    search: true
+    right:
+      - text: "Origins"
+        file: index.qmd
+      - icon: twitter
+        href: "https://twitter.com/LewisAlanJones"
+      - icon: github
+        href: "https://github.com/LewisAJones"
+      - icon: envelope-fill
+        href: "mailto:LewisA.Jones@outlook.com"
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
+
+format:
+  html:
+    theme:
+      light: themes/light.scss
+      dark: themes/dark.scss
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
 
 editor: source
 
