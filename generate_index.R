@@ -26,13 +26,14 @@ cat(paste0('Lewis A. Jones & Miranta Kouvari\n\n'), file = "index.qmd", append =
 for (i in 1:nrow(df)) {
   # Create slide
   cat(paste0('## {background-color="',df$color[i], '"}\n\n'), file = "index.qmd", append = TRUE)
+
   # Set up grid
-  cat('::: {.grid}', file = "index.qmd", append = TRUE)
+  cat('::: {.columns}', file = "index.qmd", append = TRUE)
   # Add space
   cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
-  # Create 3 x 2 grid
+
   # Add name column
-  cat('::: {.g-col-4}', file = "index.qmd", append = TRUE)
+  cat('::: {.column width="30%"}', file = "index.qmd", append = TRUE)
   # Add space
   cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
   # Add emphasis
@@ -53,6 +54,108 @@ for (i in 1:nrow(df)) {
   cat(':::', file = "index.qmd", append = TRUE)
   # Add space
   cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+
+  # Add empty space column
+  cat('::: {.column width="5%"}', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Close empty space column
+  cat(':::', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+
+  # Create image col 1
+  cat('::: {.column width="30%"}', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Add content
+  cat(paste0('![A test image.](./assets/images/test.png)'), file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Close image col 1
+  cat(':::', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+
+  # Add empty space column
+  cat('::: {.column width="5%"}', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Close empty space column
+  cat(':::', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+
+  # Create image col 2
+  cat('::: {.column width="30%"}', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Add content
+  cat(paste0('![A test image.](./assets/images/test.png)'), file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Close image col 2
+  cat(':::', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+
+  # Create image col 3
+  cat('::: {.column width="30%"}', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Add content
+  cat(paste0('![A test image.](./assets/images/test.png)'), file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Close image col 3
+  cat(':::', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+
+  # Add empty space column
+  cat('::: {.column width="5%"}', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Close empty space column
+  cat(':::', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+
+  # Create image col 4
+  cat('::: {.column width="30%"}', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Add content
+  cat(paste0('![A test image.](./assets/images/test.png)'), file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Close image col 4
+  cat(':::', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+
+  # Add empty space column
+  cat('::: {.column width="5%"}', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Close empty space column
+  cat(':::', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+
+  # Create image col 5
+  cat('::: {.column width="30%"}', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Add content
+  cat(paste0('![A test image.](./assets/images/test.png)'), file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Close image col 5
+  cat(':::', file = "index.qmd", append = TRUE)
+  # Add space
+  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+
   # Close grid
   cat(':::', file = "index.qmd", append = TRUE)
   # Add space

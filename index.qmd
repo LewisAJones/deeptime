@@ -17,9 +17,9 @@ Lewis A. Jones & Miranta Kouvari
 
 ## {background-color="#FEF2E0"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -31,13 +31,59 @@ Meghalayan
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FEF2E0"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -49,13 +95,59 @@ Northgrippian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FEF2E0"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -67,13 +159,59 @@ Greenlandian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FFF2C7"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -85,13 +223,59 @@ Late Pleistocene
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#fff2c7"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -103,13 +287,59 @@ Chibanian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FFF2C7"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -121,13 +351,59 @@ Calabrian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FFEDB3"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -139,13 +415,59 @@ Gelasian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FFFFBF"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -157,13 +479,59 @@ Piacenzian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FFFFB3"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -175,13 +543,59 @@ Zanclean
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FFFF73"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -193,13 +607,59 @@ Messinian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FFFF66"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -211,13 +671,59 @@ Tortonian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FFFF59"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -229,13 +735,59 @@ Serravallian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FFFF4D"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -247,13 +799,59 @@ Langhian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FFFF41"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -265,13 +863,59 @@ Burdigalian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FFFF33"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -283,13 +927,59 @@ Aquitanian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FEE6AA"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -301,13 +991,59 @@ Chattian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FED99A"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -319,13 +1055,59 @@ Rupelian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FDCDA1"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -337,13 +1119,59 @@ Priabonian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FDC091"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -355,13 +1183,59 @@ Bartonian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FCB482"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -373,13 +1247,59 @@ Lutetian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FCA773"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -391,13 +1311,59 @@ Ypresian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FDBF6F"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -409,13 +1375,59 @@ Thanetian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FEBF65"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -427,13 +1439,59 @@ Selandian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FDB462"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -445,13 +1503,59 @@ Danian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#F2FA8C"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -463,13 +1567,59 @@ Maastrichtian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#E6F47F"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -481,13 +1631,59 @@ Campanian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#D9EF74"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -499,13 +1695,59 @@ Santonian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#CCE968"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -517,13 +1759,59 @@ Coniacian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#BFE35D"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -535,13 +1823,59 @@ Turonian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#B3DE53"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -553,13 +1887,59 @@ Cenomanian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#CCEA97"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -571,13 +1951,59 @@ Albian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#BFE48A"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -589,13 +2015,59 @@ Aptian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#B3DF7F"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -607,13 +2079,59 @@ Barremian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#A6D975"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -625,13 +2143,59 @@ Hauterivian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#99D36A"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -643,13 +2207,59 @@ Valanginian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#8CCD60"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -661,13 +2271,59 @@ Berriasian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#D9F1F7"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -679,13 +2335,59 @@ Tithonian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#CCECF4"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -697,13 +2399,59 @@ Kimmeridgian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#BFE7F1"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -715,13 +2463,59 @@ Oxfordian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#BFE7E5"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -733,13 +2527,59 @@ Callovian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#B3E2E3"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -751,13 +2591,59 @@ Bathonian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#A6DDE0"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -769,13 +2655,59 @@ Bajocian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#9AD9DD"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -787,13 +2719,59 @@ Aalenian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#99CEE3"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -805,13 +2783,59 @@ Toarcian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#80C5DD"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -823,13 +2847,59 @@ Pliensbachian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#67BCD8"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -841,13 +2911,59 @@ Sinemurian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#4EB3D3"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -859,13 +2975,59 @@ Hettangian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#E3B9DB"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -877,13 +3039,59 @@ Rhaetian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#D6AAD3"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -895,13 +3103,59 @@ Norian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#C99BCB"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -913,13 +3167,59 @@ Carnian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#C983BF"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -931,13 +3231,59 @@ Ladinian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#BC75B7"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -949,13 +3295,59 @@ Anisian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#B051A5"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -967,13 +3359,59 @@ Olenekian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#A4469F"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -985,13 +3423,59 @@ Induan
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FCC0B2"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1003,13 +3487,59 @@ Changhsingian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FCB4A2"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1021,13 +3551,59 @@ Wuchiapingian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FB9A85"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1039,13 +3615,59 @@ Capitanian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FB8D76"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1057,13 +3679,59 @@ Wordian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#FB8069"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1075,13 +3743,59 @@ Roadian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#E38776"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1093,13 +3807,59 @@ Kungurian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#E37B68"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1111,13 +3871,59 @@ Artinskian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#E36F5C"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1129,13 +3935,59 @@ Sakmarian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#E36350"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1147,13 +3999,59 @@ Asselian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#CCD4C7"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1165,13 +4063,59 @@ Gzhelian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#BFD0C5"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1183,13 +4127,59 @@ Kasimovian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#C7CBB9"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1201,13 +4191,59 @@ Moscovian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#99C2B5"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1219,13 +4255,59 @@ Bashkirian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#BFC26B"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1237,13 +4319,59 @@ Serpukhovian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#A6B96C"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1255,13 +4383,59 @@ Visean
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#8CB06C"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1273,13 +4447,59 @@ Tournaisian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#F2EDC5"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1291,13 +4511,59 @@ Famennian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#F2EDAD"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1309,13 +4575,59 @@ Frasnian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#F1E185"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1327,13 +4639,59 @@ Givetian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#F1D576"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1345,13 +4703,59 @@ Eifelian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#E5D075"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1363,13 +4767,59 @@ Emsian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#E5C468"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1381,13 +4831,59 @@ Pragian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#E5B75A"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1399,13 +4895,59 @@ Lochkovian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#E6F5E1"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1417,13 +4959,59 @@ Pridoli
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#D9F0DF"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1435,13 +5023,59 @@ Ludfordian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#CCECDD"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1453,13 +5087,59 @@ Gorstian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#CCEBD1"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1471,13 +5151,59 @@ Homerian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#BFE6C3"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1489,13 +5215,59 @@ Sheinwoodian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#BFE6CF"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1507,13 +5279,59 @@ Telychian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#B3E1C2"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1525,13 +5343,59 @@ Aeronian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#A6DCB5"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1543,13 +5407,59 @@ Rhuddanian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#A6DBAB"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1561,13 +5471,59 @@ Hirnantian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#99D69F"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1579,13 +5535,59 @@ Katian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#8CD094"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1597,13 +5599,59 @@ Sandbian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#74C69C"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1615,13 +5663,59 @@ Darriwilian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#66C092"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1633,13 +5727,59 @@ Dapingian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#41B087"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1651,13 +5791,59 @@ Floian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#33A97E"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1669,13 +5855,59 @@ Tremadocian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#E6F5C9"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1687,13 +5919,59 @@ Stage 10
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#D9F0BB"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1705,13 +5983,59 @@ Jiangshanian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#CCEBAE"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1723,13 +6047,59 @@ Paibian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#CCDFAA"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1741,13 +6111,59 @@ Guzhangian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#BFD99D"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1759,13 +6175,59 @@ Drumian
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#B3D492"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1777,13 +6239,59 @@ Wuliuan
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#B3CA8E"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1795,13 +6303,59 @@ Stage 4
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#A6C583"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1813,13 +6367,59 @@ Stage 3
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#A6BA80"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1831,13 +6431,59 @@ Stage 2
 
 :::
 
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
 :::
 
 ## {background-color="#99B575"}
 
-::: {.grid}
+::: {.columns}
 
-::: {.g-col-4}
+::: {.column width="30%"}
 
 ::: {.emphasized}
 
@@ -1846,6 +6492,52 @@ Fortunian
 :::
 
 529--538.8 Ma
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+
+![A test image.](./assets/images/test.png)
 
 :::
 
