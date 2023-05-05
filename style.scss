@@ -5,6 +5,14 @@
 $body-bg: black;
 $body-color: black;
 $link-color: black;
+
+// Font sizes
+$presentation-font-size-root: 30px;
+
+.emphasized {
+   font-size: 2em;
+}
+
 // Code blocks
 $code-block-bg-alpha: -.8;
 

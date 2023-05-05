@@ -7,420 +7,1847 @@ format:
     controls: true
     transition: slide
     theme: [default, style.scss]
-    parallax-background-image: gradient.png
     parallax-background-size: "28px 6000px"
     self-contained: true
 ---
     
-# Deep Time {background-color="white"}
+# Origins {background-color="white"}
 
 Lewis A. Jones & Miranta Kouvari
 
-## Meghalayan {background-color="#FEF2E0"}
+## {background-color="#FEF2E0"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Meghalayan
+
+:::
 
 0--0.0042 Ma
 
-## Northgrippian {background-color="#FEF2E0"}
+:::
+
+:::
+
+## {background-color="#FEF2E0"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Northgrippian
+
+:::
 
 0.0042--0.0082 Ma
 
-## Greenlandian {background-color="#FEF2E0"}
+:::
+
+:::
+
+## {background-color="#FEF2E0"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Greenlandian
+
+:::
 
 0.0082--0.0117 Ma
 
-## Late Pleistocene {background-color="#FFF2C7"}
+:::
+
+:::
+
+## {background-color="#FFF2C7"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Late Pleistocene
+
+:::
 
 0.0117--0.129 Ma
 
-## Chibanian {background-color="#fff2c7"}
+:::
+
+:::
+
+## {background-color="#fff2c7"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Chibanian
+
+:::
 
 0.129--0.774 Ma
 
-## Calabrian {background-color="#FFF2C7"}
+:::
+
+:::
+
+## {background-color="#FFF2C7"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Calabrian
+
+:::
 
 0.774--1.8 Ma
 
-## Gelasian {background-color="#FFEDB3"}
+:::
+
+:::
+
+## {background-color="#FFEDB3"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Gelasian
+
+:::
 
 1.8--2.58 Ma
 
-## Piacenzian {background-color="#FFFFBF"}
+:::
+
+:::
+
+## {background-color="#FFFFBF"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Piacenzian
+
+:::
 
 2.58--3.6 Ma
 
-## Zanclean {background-color="#FFFFB3"}
+:::
+
+:::
+
+## {background-color="#FFFFB3"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Zanclean
+
+:::
 
 3.6--5.333 Ma
 
-## Messinian {background-color="#FFFF73"}
+:::
+
+:::
+
+## {background-color="#FFFF73"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Messinian
+
+:::
 
 5.333--7.246 Ma
 
-## Tortonian {background-color="#FFFF66"}
+:::
+
+:::
+
+## {background-color="#FFFF66"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Tortonian
+
+:::
 
 7.246--11.63 Ma
 
-## Serravallian {background-color="#FFFF59"}
+:::
+
+:::
+
+## {background-color="#FFFF59"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Serravallian
+
+:::
 
 11.63--13.82 Ma
 
-## Langhian {background-color="#FFFF4D"}
+:::
+
+:::
+
+## {background-color="#FFFF4D"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Langhian
+
+:::
 
 13.82--15.97 Ma
 
-## Burdigalian {background-color="#FFFF41"}
+:::
+
+:::
+
+## {background-color="#FFFF41"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Burdigalian
+
+:::
 
 15.97--20.44 Ma
 
-## Aquitanian {background-color="#FFFF33"}
+:::
+
+:::
+
+## {background-color="#FFFF33"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Aquitanian
+
+:::
 
 20.44--23.03 Ma
 
-## Chattian {background-color="#FEE6AA"}
+:::
+
+:::
+
+## {background-color="#FEE6AA"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Chattian
+
+:::
 
 23.03--27.82 Ma
 
-## Rupelian {background-color="#FED99A"}
+:::
+
+:::
+
+## {background-color="#FED99A"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Rupelian
+
+:::
 
 27.82--33.9 Ma
 
-## Priabonian {background-color="#FDCDA1"}
+:::
+
+:::
+
+## {background-color="#FDCDA1"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Priabonian
+
+:::
 
 33.9--37.71 Ma
 
-## Bartonian {background-color="#FDC091"}
+:::
+
+:::
+
+## {background-color="#FDC091"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Bartonian
+
+:::
 
 37.71--41.2 Ma
 
-## Lutetian {background-color="#FCB482"}
+:::
+
+:::
+
+## {background-color="#FCB482"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Lutetian
+
+:::
 
 41.2--47.8 Ma
 
-## Ypresian {background-color="#FCA773"}
+:::
+
+:::
+
+## {background-color="#FCA773"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Ypresian
+
+:::
 
 47.8--56 Ma
 
-## Thanetian {background-color="#FDBF6F"}
+:::
+
+:::
+
+## {background-color="#FDBF6F"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Thanetian
+
+:::
 
 56--59.2 Ma
 
-## Selandian {background-color="#FEBF65"}
+:::
+
+:::
+
+## {background-color="#FEBF65"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Selandian
+
+:::
 
 59.2--61.6 Ma
 
-## Danian {background-color="#FDB462"}
+:::
+
+:::
+
+## {background-color="#FDB462"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Danian
+
+:::
 
 61.6--66 Ma
 
-## Maastrichtian {background-color="#F2FA8C"}
+:::
+
+:::
+
+## {background-color="#F2FA8C"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Maastrichtian
+
+:::
 
 66--72.1 Ma
 
-## Campanian {background-color="#E6F47F"}
+:::
+
+:::
+
+## {background-color="#E6F47F"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Campanian
+
+:::
 
 72.1--83.6 Ma
 
-## Santonian {background-color="#D9EF74"}
+:::
+
+:::
+
+## {background-color="#D9EF74"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Santonian
+
+:::
 
 83.6--86.3 Ma
 
-## Coniacian {background-color="#CCE968"}
+:::
+
+:::
+
+## {background-color="#CCE968"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Coniacian
+
+:::
 
 86.3--89.8 Ma
 
-## Turonian {background-color="#BFE35D"}
+:::
+
+:::
+
+## {background-color="#BFE35D"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Turonian
+
+:::
 
 89.8--93.9 Ma
 
-## Cenomanian {background-color="#B3DE53"}
+:::
+
+:::
+
+## {background-color="#B3DE53"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Cenomanian
+
+:::
 
 93.9--100.5 Ma
 
-## Albian {background-color="#CCEA97"}
+:::
+
+:::
+
+## {background-color="#CCEA97"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Albian
+
+:::
 
 100.5--113 Ma
 
-## Aptian {background-color="#BFE48A"}
+:::
+
+:::
+
+## {background-color="#BFE48A"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Aptian
+
+:::
 
 113--121.4 Ma
 
-## Barremian {background-color="#B3DF7F"}
+:::
+
+:::
+
+## {background-color="#B3DF7F"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Barremian
+
+:::
 
 121.4--129.4 Ma
 
-## Hauterivian {background-color="#A6D975"}
+:::
+
+:::
+
+## {background-color="#A6D975"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Hauterivian
+
+:::
 
 129.4--132.6 Ma
 
-## Valanginian {background-color="#99D36A"}
+:::
+
+:::
+
+## {background-color="#99D36A"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Valanginian
+
+:::
 
 132.6--139.8 Ma
 
-## Berriasian {background-color="#8CCD60"}
+:::
+
+:::
+
+## {background-color="#8CCD60"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Berriasian
+
+:::
 
 139.8--145 Ma
 
-## Tithonian {background-color="#D9F1F7"}
+:::
+
+:::
+
+## {background-color="#D9F1F7"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Tithonian
+
+:::
 
 145--149.2 Ma
 
-## Kimmeridgian {background-color="#CCECF4"}
+:::
+
+:::
+
+## {background-color="#CCECF4"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Kimmeridgian
+
+:::
 
 149.2--154.8 Ma
 
-## Oxfordian {background-color="#BFE7F1"}
+:::
+
+:::
+
+## {background-color="#BFE7F1"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Oxfordian
+
+:::
 
 154.8--161.5 Ma
 
-## Callovian {background-color="#BFE7E5"}
+:::
+
+:::
+
+## {background-color="#BFE7E5"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Callovian
+
+:::
 
 161.5--165.3 Ma
 
-## Bathonian {background-color="#B3E2E3"}
+:::
+
+:::
+
+## {background-color="#B3E2E3"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Bathonian
+
+:::
 
 165.3--168.2 Ma
 
-## Bajocian {background-color="#A6DDE0"}
+:::
+
+:::
+
+## {background-color="#A6DDE0"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Bajocian
+
+:::
 
 168.2--170.9 Ma
 
-## Aalenian {background-color="#9AD9DD"}
+:::
+
+:::
+
+## {background-color="#9AD9DD"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Aalenian
+
+:::
 
 170.9--174.7 Ma
 
-## Toarcian {background-color="#99CEE3"}
+:::
+
+:::
+
+## {background-color="#99CEE3"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Toarcian
+
+:::
 
 174.7--184.2 Ma
 
-## Pliensbachian {background-color="#80C5DD"}
+:::
+
+:::
+
+## {background-color="#80C5DD"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Pliensbachian
+
+:::
 
 184.2--192.9 Ma
 
-## Sinemurian {background-color="#67BCD8"}
+:::
+
+:::
+
+## {background-color="#67BCD8"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Sinemurian
+
+:::
 
 192.9--199.5 Ma
 
-## Hettangian {background-color="#4EB3D3"}
+:::
+
+:::
+
+## {background-color="#4EB3D3"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Hettangian
+
+:::
 
 199.5--201.4 Ma
 
-## Rhaetian {background-color="#E3B9DB"}
+:::
+
+:::
+
+## {background-color="#E3B9DB"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Rhaetian
+
+:::
 
 201.4--208.5 Ma
 
-## Norian {background-color="#D6AAD3"}
+:::
+
+:::
+
+## {background-color="#D6AAD3"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Norian
+
+:::
 
 208.5--227 Ma
 
-## Carnian {background-color="#C99BCB"}
+:::
+
+:::
+
+## {background-color="#C99BCB"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Carnian
+
+:::
 
 227--237 Ma
 
-## Ladinian {background-color="#C983BF"}
+:::
+
+:::
+
+## {background-color="#C983BF"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Ladinian
+
+:::
 
 237--242 Ma
 
-## Anisian {background-color="#BC75B7"}
+:::
+
+:::
+
+## {background-color="#BC75B7"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Anisian
+
+:::
 
 242--247.2 Ma
 
-## Olenekian {background-color="#B051A5"}
+:::
+
+:::
+
+## {background-color="#B051A5"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Olenekian
+
+:::
 
 247.2--251.2 Ma
 
-## Induan {background-color="#A4469F"}
+:::
+
+:::
+
+## {background-color="#A4469F"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Induan
+
+:::
 
 251.2--251.902 Ma
 
-## Changhsingian {background-color="#FCC0B2"}
+:::
+
+:::
+
+## {background-color="#FCC0B2"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Changhsingian
+
+:::
 
 251.902--254.14 Ma
 
-## Wuchiapingian {background-color="#FCB4A2"}
+:::
+
+:::
+
+## {background-color="#FCB4A2"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Wuchiapingian
+
+:::
 
 254.14--259.51 Ma
 
-## Capitanian {background-color="#FB9A85"}
+:::
+
+:::
+
+## {background-color="#FB9A85"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Capitanian
+
+:::
 
 259.51--264.28 Ma
 
-## Wordian {background-color="#FB8D76"}
+:::
+
+:::
+
+## {background-color="#FB8D76"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Wordian
+
+:::
 
 264.28--266.9 Ma
 
-## Roadian {background-color="#FB8069"}
+:::
+
+:::
+
+## {background-color="#FB8069"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Roadian
+
+:::
 
 266.9--273.01 Ma
 
-## Kungurian {background-color="#E38776"}
+:::
+
+:::
+
+## {background-color="#E38776"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Kungurian
+
+:::
 
 273.01--283.5 Ma
 
-## Artinskian {background-color="#E37B68"}
+:::
+
+:::
+
+## {background-color="#E37B68"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Artinskian
+
+:::
 
 283.5--290.1 Ma
 
-## Sakmarian {background-color="#E36F5C"}
+:::
+
+:::
+
+## {background-color="#E36F5C"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Sakmarian
+
+:::
 
 290.1--293.52 Ma
 
-## Asselian {background-color="#E36350"}
+:::
+
+:::
+
+## {background-color="#E36350"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Asselian
+
+:::
 
 293.52--298.9 Ma
 
-## Gzhelian {background-color="#CCD4C7"}
+:::
+
+:::
+
+## {background-color="#CCD4C7"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Gzhelian
+
+:::
 
 298.9--303.7 Ma
 
-## Kasimovian {background-color="#BFD0C5"}
+:::
+
+:::
+
+## {background-color="#BFD0C5"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Kasimovian
+
+:::
 
 303.7--307 Ma
 
-## Moscovian {background-color="#C7CBB9"}
+:::
+
+:::
+
+## {background-color="#C7CBB9"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Moscovian
+
+:::
 
 307--315.2 Ma
 
-## Bashkirian {background-color="#99C2B5"}
+:::
+
+:::
+
+## {background-color="#99C2B5"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Bashkirian
+
+:::
 
 315.2--323.2 Ma
 
-## Serpukhovian {background-color="#BFC26B"}
+:::
+
+:::
+
+## {background-color="#BFC26B"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Serpukhovian
+
+:::
 
 323.2--330.9 Ma
 
-## Visean {background-color="#A6B96C"}
+:::
+
+:::
+
+## {background-color="#A6B96C"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Visean
+
+:::
 
 330.9--346.7 Ma
 
-## Tournaisian {background-color="#8CB06C"}
+:::
+
+:::
+
+## {background-color="#8CB06C"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Tournaisian
+
+:::
 
 346.7--358.9 Ma
 
-## Famennian {background-color="#F2EDC5"}
+:::
+
+:::
+
+## {background-color="#F2EDC5"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Famennian
+
+:::
 
 358.9--372.2 Ma
 
-## Frasnian {background-color="#F2EDAD"}
+:::
+
+:::
+
+## {background-color="#F2EDAD"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Frasnian
+
+:::
 
 372.2--382.7 Ma
 
-## Givetian {background-color="#F1E185"}
+:::
+
+:::
+
+## {background-color="#F1E185"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Givetian
+
+:::
 
 382.7--387.7 Ma
 
-## Eifelian {background-color="#F1D576"}
+:::
+
+:::
+
+## {background-color="#F1D576"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Eifelian
+
+:::
 
 387.7--393.3 Ma
 
-## Emsian {background-color="#E5D075"}
+:::
+
+:::
+
+## {background-color="#E5D075"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Emsian
+
+:::
 
 393.3--407.6 Ma
 
-## Pragian {background-color="#E5C468"}
+:::
+
+:::
+
+## {background-color="#E5C468"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Pragian
+
+:::
 
 407.6--410.8 Ma
 
-## Lochkovian {background-color="#E5B75A"}
+:::
+
+:::
+
+## {background-color="#E5B75A"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Lochkovian
+
+:::
 
 410.8--419.2 Ma
 
-## Pridoli {background-color="#E6F5E1"}
+:::
+
+:::
+
+## {background-color="#E6F5E1"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Pridoli
+
+:::
 
 419.2--423 Ma
 
-## Ludfordian {background-color="#D9F0DF"}
+:::
+
+:::
+
+## {background-color="#D9F0DF"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Ludfordian
+
+:::
 
 423--425.6 Ma
 
-## Gorstian {background-color="#CCECDD"}
+:::
+
+:::
+
+## {background-color="#CCECDD"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Gorstian
+
+:::
 
 425.6--427.4 Ma
 
-## Homerian {background-color="#CCEBD1"}
+:::
+
+:::
+
+## {background-color="#CCEBD1"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Homerian
+
+:::
 
 427.4--430.5 Ma
 
-## Sheinwoodian {background-color="#BFE6C3"}
+:::
+
+:::
+
+## {background-color="#BFE6C3"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Sheinwoodian
+
+:::
 
 430.5--433.4 Ma
 
-## Telychian {background-color="#BFE6CF"}
+:::
+
+:::
+
+## {background-color="#BFE6CF"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Telychian
+
+:::
 
 433.4--438.5 Ma
 
-## Aeronian {background-color="#B3E1C2"}
+:::
+
+:::
+
+## {background-color="#B3E1C2"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Aeronian
+
+:::
 
 438.5--440.8 Ma
 
-## Rhuddanian {background-color="#A6DCB5"}
+:::
+
+:::
+
+## {background-color="#A6DCB5"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Rhuddanian
+
+:::
 
 440.8--443.8 Ma
 
-## Hirnantian {background-color="#A6DBAB"}
+:::
+
+:::
+
+## {background-color="#A6DBAB"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Hirnantian
+
+:::
 
 443.8--445.2 Ma
 
-## Katian {background-color="#99D69F"}
+:::
+
+:::
+
+## {background-color="#99D69F"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Katian
+
+:::
 
 445.2--453 Ma
 
-## Sandbian {background-color="#8CD094"}
+:::
+
+:::
+
+## {background-color="#8CD094"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Sandbian
+
+:::
 
 453--458.4 Ma
 
-## Darriwilian {background-color="#74C69C"}
+:::
+
+:::
+
+## {background-color="#74C69C"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Darriwilian
+
+:::
 
 458.4--467.3 Ma
 
-## Dapingian {background-color="#66C092"}
+:::
+
+:::
+
+## {background-color="#66C092"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Dapingian
+
+:::
 
 467.3--470 Ma
 
-## Floian {background-color="#41B087"}
+:::
+
+:::
+
+## {background-color="#41B087"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Floian
+
+:::
 
 470--477.7 Ma
 
-## Tremadocian {background-color="#33A97E"}
+:::
+
+:::
+
+## {background-color="#33A97E"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Tremadocian
+
+:::
 
 477.7--485.4 Ma
 
-## Stage 10 {background-color="#E6F5C9"}
+:::
+
+:::
+
+## {background-color="#E6F5C9"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Stage 10
+
+:::
 
 485.4--489.5 Ma
 
-## Jiangshanian {background-color="#D9F0BB"}
+:::
+
+:::
+
+## {background-color="#D9F0BB"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Jiangshanian
+
+:::
 
 489.5--494 Ma
 
-## Paibian {background-color="#CCEBAE"}
+:::
+
+:::
+
+## {background-color="#CCEBAE"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Paibian
+
+:::
 
 494--497 Ma
 
-## Guzhangian {background-color="#CCDFAA"}
+:::
+
+:::
+
+## {background-color="#CCDFAA"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Guzhangian
+
+:::
 
 497--500.5 Ma
 
-## Drumian {background-color="#BFD99D"}
+:::
+
+:::
+
+## {background-color="#BFD99D"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Drumian
+
+:::
 
 500.5--504.5 Ma
 
-## Wuliuan {background-color="#B3D492"}
+:::
+
+:::
+
+## {background-color="#B3D492"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Wuliuan
+
+:::
 
 504.5--509 Ma
 
-## Stage 4 {background-color="#B3CA8E"}
+:::
+
+:::
+
+## {background-color="#B3CA8E"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Stage 4
+
+:::
 
 509--514 Ma
 
-## Stage 3 {background-color="#A6C583"}
+:::
+
+:::
+
+## {background-color="#A6C583"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Stage 3
+
+:::
 
 514--521 Ma
 
-## Stage 2 {background-color="#A6BA80"}
+:::
+
+:::
+
+## {background-color="#A6BA80"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Stage 2
+
+:::
 
 521--529 Ma
 
-## Fortunian {background-color="#99B575"}
+:::
+
+:::
+
+## {background-color="#99B575"}
+
+::: {.grid}
+
+::: {.g-col-4}
+
+::: {.emphasized}
+
+Fortunian
+
+:::
 
 529--538.8 Ma
+
+:::
+
+:::
 
