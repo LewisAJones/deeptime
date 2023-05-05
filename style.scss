@@ -1,0 +1,23 @@
+/*-- scss:defaults --*/
+
+/*-- scss:defaults --*/
+// Base document colors
+$body-bg: black;
+$body-color: black;
+$link-color: black;
+// Code blocks
+$code-block-bg-alpha: -.8;
+
+/*-- scss:rules --*/
+
+// push the controls over the right column
+@media screen and (min-width: 500px) {
+  .reveal .controls[data-controls-layout=edges] .navigate-down {
+    left: 67%;
+    bottom: 2.3em;
+  }
+  .reveal .controls[data-controls-layout=edges] .navigate-up {
+    left: 67%;
+    top: 2.3em;
+  }
+}
