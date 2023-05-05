@@ -118,5 +118,5 @@ for (i in intervals) {
   }
 }
 
-quarto_render(input = "index.qmd")
-quarto_preview(file = "index.qmd")
+#quarto_render(input = "index.qmd")
+#quarto_preview(file = "index.qmd")
