@@ -21,11 +21,11 @@ $code-block-bg-alpha: -.8;
 // push the controls over the right column
 @media screen and (min-width: 500px) {
   .reveal .controls[data-controls-layout=edges] .navigate-down {
-    left: 67%;
+    left: 85%;
     bottom: 2.3em;
   }
   .reveal .controls[data-controls-layout=edges] .navigate-up {
-    left: 67%;
+    left: 85%;
     top: 2.3em;
   }
 }

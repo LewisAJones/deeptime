@@ -58,10 +58,12 @@ format:
     progress: true
     width: 1300
     controls: true
+    controls-tutorial: true
     transition: slide
     theme: [default, style.scss]
     parallax-background-size: "28px 6000px"
     self-contained: true
+    footer: "[Do you want to contribute an event?](https://www.google.com/?client=safari)"
 ---
     ', file = "index.qmd", sep = "\n")
 
@@ -116,5 +118,5 @@ for (i in intervals) {
   }
 }
 
-#quarto_render(input = "index.qmd")
-#quarto_preview(file = "index.qmd")
+quarto_render(input = "index.qmd")
+quarto_preview(file = "index.qmd")
