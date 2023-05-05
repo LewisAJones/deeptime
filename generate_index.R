@@ -72,7 +72,7 @@ for (i in intervals) {
   # Subset file
   tmp <- subset(df, interval == i)
   # Create slide
-  cat(paste0('## {background-color="', tmp$color, '"}\n\n'), file = "index.qmd", append = TRUE)
+  cat(paste0('## {data-menu-title="', tmp$interval[1],'" background-color="', tmp$color, '"}\n\n'), file = "index.qmd", append = TRUE)
 
   # Set up grid
   cat('::: {.columns}', file = "index.qmd", append = TRUE)
