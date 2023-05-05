@@ -37,6 +37,23 @@ file.create("index.qmd")
 cat('---
 format:
   revealjs:
+    include-in-header:
+      text: |
+        <meta name="github-repo" content="LewisAJones/origins"/>
+        <meta name="twitter:title" content="Origins."/>
+        <meta name="twitter:description" content="Origins of geological events. "/>
+        <meta name="twitter:url" content="https://origins.palaeobiology.org/"/>
+        <meta name="twitter:image" content="assets/favicon.png"/>
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:creator" content="@LewisAlanJones"/>
+        <meta name="twitter:site" content="@LewisAlanJones"/>
+        <meta property="og:title" content="Origins"/>
+        <meta property="og:description" content="Origins of geological events. "/>
+        <meta property="og:url" content="https://origins.palaeobiology.org/"/>
+        <meta property="og:image" content="assets/favicon.png"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:locale" content="en_GB"/>
+        <meta property="article:author" content="Lewis A. jones"/>
     menu: true
     progress: true
     width: 1300
