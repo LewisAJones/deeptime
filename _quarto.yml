@@ -2,11 +2,9 @@ project:
   type: website
   output-dir: docs
 
-execute:
-  freeze: auto
-
 website:
   title: "Origins"
+  site-url: "https://lewisajones.github.io/origins/"
   description: "When did things originate?"
   image: "assets/images/dinosaur-extinction.png"
   favicon: "assets/favicon.png"
@@ -25,7 +23,7 @@ website:
     creator: "@LewisAlanJones"
     site: "@LewisAlanJones"
   navbar:
-    title: '> LEWIS A. JONES&nbsp;&nbsp;<span class="blink-box"></span>'
+    title: "Origins"
     foreground: "#00bc8c"
     background: "black"
     search: true
@@ -41,15 +39,7 @@ website:
       - icon: mortarboard-fill
         href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
 
-format:
-  html:
-    theme:
-      light: themes/light.scss
-      dark: themes/dark.scss
-    css: styles.css
-    toc: false
-    smooth-scroll: true
-    link-external-newwindow: true
+format: html
 
 editor: source
 
