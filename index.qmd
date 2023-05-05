@@ -27,55 +27,9 @@ Meghalayan
 
 :::
 
+:::
+
 0--0.0042 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -91,55 +45,9 @@ Northgrippian
 
 :::
 
+:::
+
 0.0042--0.0082 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -155,55 +63,9 @@ Greenlandian
 
 :::
 
+:::
+
 0.0082--0.0117 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -219,55 +81,9 @@ Late Pleistocene
 
 :::
 
+:::
+
 0.0117--0.129 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -283,55 +99,9 @@ Chibanian
 
 :::
 
+:::
+
 0.129--0.774 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -347,55 +117,9 @@ Calabrian
 
 :::
 
+:::
+
 0.774--1.8 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -411,55 +135,9 @@ Gelasian
 
 :::
 
+:::
+
 1.8--2.58 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -475,55 +153,9 @@ Piacenzian
 
 :::
 
+:::
+
 2.58--3.6 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -539,55 +171,9 @@ Zanclean
 
 :::
 
+:::
+
 3.6--5.333 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -603,55 +189,9 @@ Messinian
 
 :::
 
+:::
+
 5.333--7.246 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -667,55 +207,9 @@ Tortonian
 
 :::
 
+:::
+
 7.246--11.63 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -731,55 +225,9 @@ Serravallian
 
 :::
 
+:::
+
 11.63--13.82 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -795,55 +243,9 @@ Langhian
 
 :::
 
+:::
+
 13.82--15.97 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -859,55 +261,9 @@ Burdigalian
 
 :::
 
+:::
+
 15.97--20.44 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -923,55 +279,9 @@ Aquitanian
 
 :::
 
+:::
+
 20.44--23.03 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -987,55 +297,9 @@ Chattian
 
 :::
 
+:::
+
 23.03--27.82 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -1051,55 +315,9 @@ Rupelian
 
 :::
 
+:::
+
 27.82--33.9 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -1115,55 +333,9 @@ Priabonian
 
 :::
 
+:::
+
 33.9--37.71 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -1179,55 +351,9 @@ Bartonian
 
 :::
 
+:::
+
 37.71--41.2 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -1243,55 +369,9 @@ Lutetian
 
 :::
 
+:::
+
 41.2--47.8 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -1307,55 +387,9 @@ Ypresian
 
 :::
 
+:::
+
 47.8--56 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -1371,55 +405,9 @@ Thanetian
 
 :::
 
+:::
+
 56--59.2 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -1435,55 +423,9 @@ Selandian
 
 :::
 
+:::
+
 59.2--61.6 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -1499,55 +441,9 @@ Danian
 
 :::
 
+:::
+
 61.6--66 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -1563,55 +459,15 @@ Maastrichtian
 
 :::
 
+:::
+
 66--72.1 Ma
 
 :::
 
-::: {.column width="5%"}
-
-:::
-
 ::: {.column width="30%"}
 
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
+[![*The Cretaceous/Paleogene extinction event wiped out all non-avian dinosaurs 66 million years ago.*](./assets/images/dinosaur-extinction.png)](https://doi.org/10.1111/brv.12128)
 
 :::
 
@@ -1627,55 +483,9 @@ Campanian
 
 :::
 
+:::
+
 72.1--83.6 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -1691,55 +501,9 @@ Santonian
 
 :::
 
+:::
+
 83.6--86.3 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -1755,55 +519,9 @@ Coniacian
 
 :::
 
+:::
+
 86.3--89.8 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -1819,55 +537,9 @@ Turonian
 
 :::
 
+:::
+
 89.8--93.9 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -1883,55 +555,9 @@ Cenomanian
 
 :::
 
+:::
+
 93.9--100.5 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -1947,55 +573,9 @@ Albian
 
 :::
 
+:::
+
 100.5--113 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2011,55 +591,9 @@ Aptian
 
 :::
 
+:::
+
 113--121.4 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2075,55 +609,9 @@ Barremian
 
 :::
 
+:::
+
 121.4--129.4 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2139,55 +627,9 @@ Hauterivian
 
 :::
 
+:::
+
 129.4--132.6 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2203,55 +645,9 @@ Valanginian
 
 :::
 
+:::
+
 132.6--139.8 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2267,55 +663,9 @@ Berriasian
 
 :::
 
+:::
+
 139.8--145 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2331,55 +681,9 @@ Tithonian
 
 :::
 
+:::
+
 145--149.2 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2395,55 +699,9 @@ Kimmeridgian
 
 :::
 
+:::
+
 149.2--154.8 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2459,55 +717,9 @@ Oxfordian
 
 :::
 
+:::
+
 154.8--161.5 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2523,55 +735,9 @@ Callovian
 
 :::
 
+:::
+
 161.5--165.3 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2587,55 +753,9 @@ Bathonian
 
 :::
 
+:::
+
 165.3--168.2 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2651,55 +771,9 @@ Bajocian
 
 :::
 
+:::
+
 168.2--170.9 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2715,55 +789,9 @@ Aalenian
 
 :::
 
+:::
+
 170.9--174.7 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2779,55 +807,9 @@ Toarcian
 
 :::
 
+:::
+
 174.7--184.2 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2843,55 +825,9 @@ Pliensbachian
 
 :::
 
+:::
+
 184.2--192.9 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2907,55 +843,9 @@ Sinemurian
 
 :::
 
+:::
+
 192.9--199.5 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -2971,55 +861,9 @@ Hettangian
 
 :::
 
+:::
+
 199.5--201.4 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3035,55 +879,9 @@ Rhaetian
 
 :::
 
+:::
+
 201.4--208.5 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3099,55 +897,9 @@ Norian
 
 :::
 
+:::
+
 208.5--227 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3163,55 +915,9 @@ Carnian
 
 :::
 
+:::
+
 227--237 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3227,55 +933,9 @@ Ladinian
 
 :::
 
+:::
+
 237--242 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3291,55 +951,9 @@ Anisian
 
 :::
 
+:::
+
 242--247.2 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3355,55 +969,9 @@ Olenekian
 
 :::
 
+:::
+
 247.2--251.2 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3419,55 +987,9 @@ Induan
 
 :::
 
+:::
+
 251.2--251.902 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3483,55 +1005,9 @@ Changhsingian
 
 :::
 
+:::
+
 251.902--254.14 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3547,55 +1023,9 @@ Wuchiapingian
 
 :::
 
+:::
+
 254.14--259.51 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3611,55 +1041,9 @@ Capitanian
 
 :::
 
+:::
+
 259.51--264.28 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3675,55 +1059,9 @@ Wordian
 
 :::
 
+:::
+
 264.28--266.9 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3739,55 +1077,9 @@ Roadian
 
 :::
 
+:::
+
 266.9--273.01 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3803,55 +1095,9 @@ Kungurian
 
 :::
 
+:::
+
 273.01--283.5 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3867,55 +1113,9 @@ Artinskian
 
 :::
 
+:::
+
 283.5--290.1 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3931,55 +1131,9 @@ Sakmarian
 
 :::
 
+:::
+
 290.1--293.52 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -3995,55 +1149,9 @@ Asselian
 
 :::
 
+:::
+
 293.52--298.9 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4059,55 +1167,9 @@ Gzhelian
 
 :::
 
+:::
+
 298.9--303.7 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4123,55 +1185,9 @@ Kasimovian
 
 :::
 
+:::
+
 303.7--307 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4187,55 +1203,9 @@ Moscovian
 
 :::
 
+:::
+
 307--315.2 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4251,55 +1221,9 @@ Bashkirian
 
 :::
 
+:::
+
 315.2--323.2 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4315,55 +1239,9 @@ Serpukhovian
 
 :::
 
+:::
+
 323.2--330.9 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4379,55 +1257,9 @@ Visean
 
 :::
 
+:::
+
 330.9--346.7 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4443,55 +1275,9 @@ Tournaisian
 
 :::
 
+:::
+
 346.7--358.9 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4507,55 +1293,9 @@ Famennian
 
 :::
 
+:::
+
 358.9--372.2 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4571,55 +1311,9 @@ Frasnian
 
 :::
 
+:::
+
 372.2--382.7 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4635,55 +1329,9 @@ Givetian
 
 :::
 
+:::
+
 382.7--387.7 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4699,55 +1347,9 @@ Eifelian
 
 :::
 
+:::
+
 387.7--393.3 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4763,55 +1365,9 @@ Emsian
 
 :::
 
+:::
+
 393.3--407.6 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4827,55 +1383,9 @@ Pragian
 
 :::
 
+:::
+
 407.6--410.8 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4891,55 +1401,9 @@ Lochkovian
 
 :::
 
+:::
+
 410.8--419.2 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -4955,55 +1419,9 @@ Pridoli
 
 :::
 
+:::
+
 419.2--423 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5019,55 +1437,9 @@ Ludfordian
 
 :::
 
+:::
+
 423--425.6 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5083,55 +1455,9 @@ Gorstian
 
 :::
 
+:::
+
 425.6--427.4 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5147,55 +1473,9 @@ Homerian
 
 :::
 
+:::
+
 427.4--430.5 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5211,55 +1491,9 @@ Sheinwoodian
 
 :::
 
+:::
+
 430.5--433.4 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5275,55 +1509,9 @@ Telychian
 
 :::
 
+:::
+
 433.4--438.5 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5339,55 +1527,9 @@ Aeronian
 
 :::
 
+:::
+
 438.5--440.8 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5403,55 +1545,9 @@ Rhuddanian
 
 :::
 
+:::
+
 440.8--443.8 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5467,55 +1563,9 @@ Hirnantian
 
 :::
 
+:::
+
 443.8--445.2 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5531,55 +1581,9 @@ Katian
 
 :::
 
+:::
+
 445.2--453 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5595,55 +1599,9 @@ Sandbian
 
 :::
 
+:::
+
 453--458.4 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5659,55 +1617,9 @@ Darriwilian
 
 :::
 
+:::
+
 458.4--467.3 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5723,55 +1635,9 @@ Dapingian
 
 :::
 
+:::
+
 467.3--470 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5787,55 +1653,9 @@ Floian
 
 :::
 
+:::
+
 470--477.7 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5851,55 +1671,9 @@ Tremadocian
 
 :::
 
+:::
+
 477.7--485.4 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5915,55 +1689,9 @@ Stage 10
 
 :::
 
+:::
+
 485.4--489.5 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -5979,55 +1707,9 @@ Jiangshanian
 
 :::
 
+:::
+
 489.5--494 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -6043,55 +1725,9 @@ Paibian
 
 :::
 
+:::
+
 494--497 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -6107,55 +1743,9 @@ Guzhangian
 
 :::
 
+:::
+
 497--500.5 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -6171,55 +1761,9 @@ Drumian
 
 :::
 
+:::
+
 500.5--504.5 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -6235,55 +1779,9 @@ Wuliuan
 
 :::
 
+:::
+
 504.5--509 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -6299,55 +1797,9 @@ Stage 4
 
 :::
 
+:::
+
 509--514 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -6363,55 +1815,9 @@ Stage 3
 
 :::
 
+:::
+
 514--521 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -6427,55 +1833,9 @@ Stage 2
 
 :::
 
+:::
+
 521--529 Ma
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
 
 :::
 
@@ -6491,55 +1851,10 @@ Fortunian
 
 :::
 
+:::
+
 529--538.8 Ma
 
 :::
 
-::: {.column width="5%"}
-
 :::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="30%"}
-
-![A test image.](./assets/images/test.png)
-
-:::
-
-:::
-
