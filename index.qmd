@@ -486,7 +486,7 @@ Maastrichtian
 
 ::: {.column width="30%"}
 
-[![*The Cretaceous/Paleogene extinction event wiped out all non-avian dinosaurs 66 million years ago.*](./assets/images/dinosaur-extinction.png)](https://doi.org/10.1111/brv.12128)
+[![*The Cretaceous/Paleogene extinction event wiped out all non-avian dinosaurs 66 million years ago. Image created by T. Michael Keesey (CC0 1.0).*](./assets/images/dinosaur-extinction.png)](https://doi.org/10.1111/brv.12128)
 
 :::
 

@@ -16,12 +16,29 @@ intervals <- unique(df$interval)
 # Function for writing
 write_grid <- function(x) {
   for (i in 1:nrow(x)) {
+    # Extract row
+    tmp <- x[i, ]
+    # Extract caption
+    cap <- tmp$caption
+    # Extract image loc
+    img <- tmp$file
+    # Extract reference doi
+    doi <- tmp$doi
+    # Extract image author
+    cre <- tmp$creator
+    # Extract license
+    lic <- tmp$license
+    # Extract
+    # Build content
+    lic <- paste0(' Image created by ', cre, ' (', lic, ').')
+    cont <- paste0(
+      '[![*', cap, lic, '*](./assets/images/', img, ')](', doi,')')
     # Create image col
     cat('::: {.column width="30%"}', file = "index.qmd", append = TRUE)
     # Add space
     cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
     # Add content
-    cat(paste0('[![*', x$caption, '*](./assets/images/', x$file, ')](', x$doi,')'), file = "index.qmd", append = TRUE)
+    cat(cont, file = "index.qmd", append = TRUE)
     # Add space
     cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
     # Close image col
