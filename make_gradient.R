@@ -1,7 +1,7 @@
 library(ggplot2)
 library(deeptime)
 # Create title slide
-title <- data.frame(max_ma = 0, mid_ma = -2.5, min_ma = -5.0, cols = "white")
+title <- data.frame(max_ma = 0, mid_ma = -2.5, min_ma = -5.0, cols = "blue")
 
 # Create gradient colours
 # Get stages
@@ -37,4 +37,4 @@ gradient <- ggplot(df) +
     panel.border = element_blank(),
     panel.background = element_blank()
   )
-ggsave("./gradient.png", dpi = 100, height = 545, width = 10, units = "px", limitsize = FALSE)
+ggsave("./gradient.png", dpi = 100, height = 50, width = 10, units = "px", limitsize = FALSE)
