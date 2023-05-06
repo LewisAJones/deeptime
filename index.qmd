@@ -106,6 +106,12 @@ Late Pleistocene
 
 :::
 
+::: {.column width="30%"}
+
+[![*Our species (Homo sapiens) evolved ~300,000 years ago in Africa. Image created by T. Michael Keesey (CC0 1.0).*](./assets/images/homo-sapiens.png)](https://doi.org/10.1038/nature22336)
+
+:::
+
 ## {data-menu-title="Chibanian" background-color="#fff2c7"}
 
 ::: {.columns}
