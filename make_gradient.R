@@ -1,33 +1,40 @@
 library(ggplot2)
 library(deeptime)
+# Create title slide
+title <- data.frame(max_ma = 0, mid_ma = -2.5, min_ma = -5.0, cols = "white")
 
-gradient <- ggplot() +
-  scale_y_reverse() +
-  coord_geo(pos = "left",
-            dat = "stages",
-            ylim = c(540, 0), xlim = c(0, 1),
-            height = unit(100, "line"),
-            lab = FALSE,
-            color = "transparent") +
-  theme_classic()
-ggsave("./gradient.png", dpi = 300, height = 300, width = 100, units = "px", limitsize = FALSE)
-
+# Create gradient colours
+# Get stages
 data("stages")
-stages$mid_ma <- (stages$max_age + stages$min_age) / 2
-df <- data.frame(xmin = 0, xmax = 1000, ymin = stages$min_age, ymax = stages$max_age, fill = stages$mid_ma)
-
-data("stages")
+# Set values for sequence
 min <- 0
 max <- 540
 by <- 0.01
-max_ma <- seq(from = min + by, to = max + by, by = by)
-min_ma <- seq(from = min, to = max, by = by)
+# Assign values
+max_ma <- seq(from = min + by, to = max, by = by)
+min_ma <- seq(from = min, to = max - by, by = by)
 mid_ma <- (max_ma + min_ma) / 2
+# Get color ramp
 pal <- colorRampPalette(stages$color, space = "Lab")
+# Get colors
 cols <- pal(length(max_ma))
+# Bind data
+max_ma <- stages$max_age
+mid_ma <- (stages$max_age + stages$min_age) / 2
+min_ma <- stages$min_age
+cols <- stages$color
 df <- data.frame(max_ma, mid_ma, min_ma, cols)
+df <- rbind(title, df)
+
 gradient <- ggplot(df) +
-  scale_y_reverse() +
+  scale_y_reverse(expand = c(0, 0)) +
+  scale_x_continuous(expand = c(0, 0)) +
   geom_rect(aes(xmin = 0, xmax = 100, ymin = min_ma, ymax = max_ma), colour = df$cols, fill = df$cols) +
-  theme_void()
-ggsave("./gradient.png", dpi = 300, height = 5000, width = 2000, units = "px", limitsize = FALSE)
+  theme_void() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.border = element_blank(),
+    panel.background = element_blank()
+  )
+ggsave("./gradient.png", dpi = 100, height = 545, width = 10, units = "px", limitsize = FALSE)

@@ -1,44 +1,4 @@
 project:
   type: website
-
-website:
-  title: "Origins"
-  site-url: "https://lewisajones.github.io/origins/"
-  description: "When did things originate?"
-  image: "assets/images/dinosaur-extinction.png"
-  favicon: "assets/favicon.png"
-  open-graph:
-    image: "assets/images/dinosaur-extinction.png"
-    image-width: 500
-    image-height: 500
-    locale: en-GB
-  twitter-card:
-    title: "Origins"
-    description: "When did things originate?"
-    image: "assets/images/dinosaur-extinction.png"
-    image-width: 500
-    image-height: 500
-    card-style: summary
-    creator: "@LewisAlanJones"
-    site: "@LewisAlanJones"
-  navbar:
-    title: "Origins"
-    foreground: "#00bc8c"
-    background: "black"
-    search: true
-    right:
-      - text: "Origins"
-        file: index.qmd
-      - icon: twitter
-        href: "https://twitter.com/LewisAlanJones"
-      - icon: github
-        href: "https://github.com/LewisAJones"
-      - icon: envelope-fill
-        href: "mailto:LewisA.Jones@outlook.com"
-      - icon: mortarboard-fill
-        href: "https://scholar.google.com/citations?user=X0AvsOkAAAAJ&hl"
-
-format: html
-
-editor: source
-
+  resources:
+    - /*.png
