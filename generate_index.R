@@ -74,6 +74,7 @@ format:
     menu: true
     progress: true
     width: 1300
+    scrollable: true
     controls: true
     controls-tutorial: true
     transition: slide
@@ -91,12 +92,7 @@ for (i in intervals) {
   # Subset file
   tmp <- subset(df, interval == i)
   # Create slide
-  cat(paste0('## {data-menu-title="', tmp$interval[1],'" background-color="', tmp$color, '"}\n\n'), file = "index.qmd", append = TRUE)
-
-  # Set up grid
-  cat('::: {.columns}', file = "index.qmd", append = TRUE)
-  # Add space
-  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  cat(paste0('## {data-menu-title="', tmp$interval[1],'" background-color="', tmp$color[1], '"}\n\n'), file = "index.qmd", append = TRUE)
 
   # Add name column
   cat('::: {.column width="30%"}', file = "index.qmd", append = TRUE)
@@ -114,25 +110,21 @@ for (i in intervals) {
   cat(paste0(':::'), file = "index.qmd", append = TRUE)
   # Add space
   cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
-  # Open age
-  cat(paste0(':::'), file = "index.qmd", append = TRUE)
+  # Add font style
+  cat(paste0('::: {style="font-size:30px"}'), file = "index.qmd", append = TRUE)
   # Add space
   cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
   # Add age
   cat(paste0(tmp$min_age[1], "--", tmp$max_age[1], " Ma\n\n"), file = "index.qmd", append = TRUE)
-  # Close name column
-  cat(':::', file = "index.qmd", append = TRUE)
-  # Add space
-  cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
+  # Close age
+  cat(paste0(':::\n\n'), file = "index.qmd", append = TRUE)
+  # Close name col
+  cat(paste0(':::\n\n'), file = "index.qmd", append = TRUE)
 
-  if (!is.na(tmp$file)) {
+  if (!any(is.na(tmp$file))) {
     write_grid(x = tmp)
   }
 
-  if (i == "Fortunian") {
-    # Close columns
-    cat(':::', file = "index.qmd", append = TRUE)
-  }
 }
 
 #quarto_render(input = "index.qmd")

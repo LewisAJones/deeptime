@@ -21,6 +21,7 @@ format:
     menu: true
     progress: true
     width: 1300
+    scrollable: true
     controls: true
     controls-tutorial: true
     transition: slide
@@ -36,8 +37,6 @@ Lewis A. Jones & Miranta Kouvari
 
 ## {data-menu-title="Meghalayan" background-color="#FEF2E0"}
 
-::: {.columns}
-
 ::: {.column width="30%"}
 
 ::: {.emphasized}
@@ -46,15 +45,15 @@ Meghalayan
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 0--0.0042 Ma
 
 :::
 
-## {data-menu-title="Northgrippian" background-color="#FEF2E0"}
+:::
 
-::: {.columns}
+## {data-menu-title="Northgrippian" background-color="#FEF2E0"}
 
 ::: {.column width="30%"}
 
@@ -64,15 +63,15 @@ Northgrippian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 0.0042--0.0082 Ma
 
 :::
 
-## {data-menu-title="Greenlandian" background-color="#FEF2E0"}
+:::
 
-::: {.columns}
+## {data-menu-title="Greenlandian" background-color="#FEF2E0"}
 
 ::: {.column width="30%"}
 
@@ -82,15 +81,15 @@ Greenlandian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 0.0082--0.0117 Ma
 
 :::
 
-## {data-menu-title="Late Pleistocene" background-color="#FFF2C7"}
+:::
 
-::: {.columns}
+## {data-menu-title="Late Pleistocene" background-color="#FFF2C7"}
 
 ::: {.column width="30%"}
 
@@ -100,9 +99,11 @@ Late Pleistocene
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 0.0117--0.129 Ma
+
+:::
 
 :::
 
@@ -114,8 +115,6 @@ Late Pleistocene
 
 ## {data-menu-title="Chibanian" background-color="#fff2c7"}
 
-::: {.columns}
-
 ::: {.column width="30%"}
 
 ::: {.emphasized}
@@ -124,15 +123,15 @@ Chibanian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 0.129--0.774 Ma
 
 :::
 
-## {data-menu-title="Calabrian" background-color="#FFF2C7"}
+:::
 
-::: {.columns}
+## {data-menu-title="Calabrian" background-color="#FFF2C7"}
 
 ::: {.column width="30%"}
 
@@ -142,15 +141,15 @@ Calabrian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 0.774--1.8 Ma
 
 :::
 
-## {data-menu-title="Gelasian" background-color="#FFEDB3"}
+:::
 
-::: {.columns}
+## {data-menu-title="Gelasian" background-color="#FFEDB3"}
 
 ::: {.column width="30%"}
 
@@ -160,15 +159,15 @@ Gelasian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 1.8--2.58 Ma
 
 :::
 
-## {data-menu-title="Piacenzian" background-color="#FFFFBF"}
+:::
 
-::: {.columns}
+## {data-menu-title="Piacenzian" background-color="#FFFFBF"}
 
 ::: {.column width="30%"}
 
@@ -178,15 +177,15 @@ Piacenzian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 2.58--3.6 Ma
 
 :::
 
-## {data-menu-title="Zanclean" background-color="#FFFFB3"}
+:::
 
-::: {.columns}
+## {data-menu-title="Zanclean" background-color="#FFFFB3"}
 
 ::: {.column width="30%"}
 
@@ -196,15 +195,15 @@ Zanclean
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 3.6--5.333 Ma
 
 :::
 
-## {data-menu-title="Messinian" background-color="#FFFF73"}
+:::
 
-::: {.columns}
+## {data-menu-title="Messinian" background-color="#FFFF73"}
 
 ::: {.column width="30%"}
 
@@ -214,15 +213,15 @@ Messinian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 5.333--7.246 Ma
 
 :::
 
-## {data-menu-title="Tortonian" background-color="#FFFF66"}
+:::
 
-::: {.columns}
+## {data-menu-title="Tortonian" background-color="#FFFF66"}
 
 ::: {.column width="30%"}
 
@@ -232,15 +231,15 @@ Tortonian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 7.246--11.63 Ma
 
 :::
 
-## {data-menu-title="Serravallian" background-color="#FFFF59"}
+:::
 
-::: {.columns}
+## {data-menu-title="Serravallian" background-color="#FFFF59"}
 
 ::: {.column width="30%"}
 
@@ -250,15 +249,15 @@ Serravallian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 11.63--13.82 Ma
 
 :::
 
-## {data-menu-title="Langhian" background-color="#FFFF4D"}
+:::
 
-::: {.columns}
+## {data-menu-title="Langhian" background-color="#FFFF4D"}
 
 ::: {.column width="30%"}
 
@@ -268,15 +267,15 @@ Langhian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 13.82--15.97 Ma
 
 :::
 
-## {data-menu-title="Burdigalian" background-color="#FFFF41"}
+:::
 
-::: {.columns}
+## {data-menu-title="Burdigalian" background-color="#FFFF41"}
 
 ::: {.column width="30%"}
 
@@ -286,15 +285,15 @@ Burdigalian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 15.97--20.44 Ma
 
 :::
 
-## {data-menu-title="Aquitanian" background-color="#FFFF33"}
+:::
 
-::: {.columns}
+## {data-menu-title="Aquitanian" background-color="#FFFF33"}
 
 ::: {.column width="30%"}
 
@@ -304,15 +303,15 @@ Aquitanian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 20.44--23.03 Ma
 
 :::
 
-## {data-menu-title="Chattian" background-color="#FEE6AA"}
+:::
 
-::: {.columns}
+## {data-menu-title="Chattian" background-color="#FEE6AA"}
 
 ::: {.column width="30%"}
 
@@ -322,15 +321,15 @@ Chattian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 23.03--27.82 Ma
 
 :::
 
-## {data-menu-title="Rupelian" background-color="#FED99A"}
+:::
 
-::: {.columns}
+## {data-menu-title="Rupelian" background-color="#FED99A"}
 
 ::: {.column width="30%"}
 
@@ -340,15 +339,15 @@ Rupelian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 27.82--33.9 Ma
 
 :::
 
-## {data-menu-title="Priabonian" background-color="#FDCDA1"}
+:::
 
-::: {.columns}
+## {data-menu-title="Priabonian" background-color="#FDCDA1"}
 
 ::: {.column width="30%"}
 
@@ -358,15 +357,15 @@ Priabonian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 33.9--37.71 Ma
 
 :::
 
-## {data-menu-title="Bartonian" background-color="#FDC091"}
+:::
 
-::: {.columns}
+## {data-menu-title="Bartonian" background-color="#FDC091"}
 
 ::: {.column width="30%"}
 
@@ -376,15 +375,15 @@ Bartonian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 37.71--41.2 Ma
 
 :::
 
-## {data-menu-title="Lutetian" background-color="#FCB482"}
+:::
 
-::: {.columns}
+## {data-menu-title="Lutetian" background-color="#FCB482"}
 
 ::: {.column width="30%"}
 
@@ -394,15 +393,15 @@ Lutetian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 41.2--47.8 Ma
 
 :::
 
-## {data-menu-title="Ypresian" background-color="#FCA773"}
+:::
 
-::: {.columns}
+## {data-menu-title="Ypresian" background-color="#FCA773"}
 
 ::: {.column width="30%"}
 
@@ -412,15 +411,15 @@ Ypresian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 47.8--56 Ma
 
 :::
 
-## {data-menu-title="Thanetian" background-color="#FDBF6F"}
+:::
 
-::: {.columns}
+## {data-menu-title="Thanetian" background-color="#FDBF6F"}
 
 ::: {.column width="30%"}
 
@@ -430,15 +429,15 @@ Thanetian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 56--59.2 Ma
 
 :::
 
-## {data-menu-title="Selandian" background-color="#FEBF65"}
+:::
 
-::: {.columns}
+## {data-menu-title="Selandian" background-color="#FEBF65"}
 
 ::: {.column width="30%"}
 
@@ -448,15 +447,15 @@ Selandian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 59.2--61.6 Ma
 
 :::
 
-## {data-menu-title="Danian" background-color="#FDB462"}
+:::
 
-::: {.columns}
+## {data-menu-title="Danian" background-color="#FDB462"}
 
 ::: {.column width="30%"}
 
@@ -466,15 +465,15 @@ Danian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 61.6--66 Ma
 
 :::
 
-## {data-menu-title="Maastrichtian" background-color="#F2FA8C"}
+:::
 
-::: {.columns}
+## {data-menu-title="Maastrichtian" background-color="#F2FA8C"}
 
 ::: {.column width="30%"}
 
@@ -484,9 +483,11 @@ Maastrichtian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 66--72.1 Ma
+
+:::
 
 :::
 
@@ -498,8 +499,6 @@ Maastrichtian
 
 ## {data-menu-title="Campanian" background-color="#E6F47F"}
 
-::: {.columns}
-
 ::: {.column width="30%"}
 
 ::: {.emphasized}
@@ -508,15 +507,15 @@ Campanian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 72.1--83.6 Ma
 
 :::
 
-## {data-menu-title="Santonian" background-color="#D9EF74"}
+:::
 
-::: {.columns}
+## {data-menu-title="Santonian" background-color="#D9EF74"}
 
 ::: {.column width="30%"}
 
@@ -526,15 +525,15 @@ Santonian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 83.6--86.3 Ma
 
 :::
 
-## {data-menu-title="Coniacian" background-color="#CCE968"}
+:::
 
-::: {.columns}
+## {data-menu-title="Coniacian" background-color="#CCE968"}
 
 ::: {.column width="30%"}
 
@@ -544,15 +543,15 @@ Coniacian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 86.3--89.8 Ma
 
 :::
 
-## {data-menu-title="Turonian" background-color="#BFE35D"}
+:::
 
-::: {.columns}
+## {data-menu-title="Turonian" background-color="#BFE35D"}
 
 ::: {.column width="30%"}
 
@@ -562,15 +561,15 @@ Turonian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 89.8--93.9 Ma
 
 :::
 
-## {data-menu-title="Cenomanian" background-color="#B3DE53"}
+:::
 
-::: {.columns}
+## {data-menu-title="Cenomanian" background-color="#B3DE53"}
 
 ::: {.column width="30%"}
 
@@ -580,15 +579,15 @@ Cenomanian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 93.9--100.5 Ma
 
 :::
 
-## {data-menu-title="Albian" background-color="#CCEA97"}
+:::
 
-::: {.columns}
+## {data-menu-title="Albian" background-color="#CCEA97"}
 
 ::: {.column width="30%"}
 
@@ -598,15 +597,15 @@ Albian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 100.5--113 Ma
 
 :::
 
-## {data-menu-title="Aptian" background-color="#BFE48A"}
+:::
 
-::: {.columns}
+## {data-menu-title="Aptian" background-color="#BFE48A"}
 
 ::: {.column width="30%"}
 
@@ -616,15 +615,15 @@ Aptian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 113--121.4 Ma
 
 :::
 
-## {data-menu-title="Barremian" background-color="#B3DF7F"}
+:::
 
-::: {.columns}
+## {data-menu-title="Barremian" background-color="#B3DF7F"}
 
 ::: {.column width="30%"}
 
@@ -634,15 +633,15 @@ Barremian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 121.4--129.4 Ma
 
 :::
 
-## {data-menu-title="Hauterivian" background-color="#A6D975"}
+:::
 
-::: {.columns}
+## {data-menu-title="Hauterivian" background-color="#A6D975"}
 
 ::: {.column width="30%"}
 
@@ -652,15 +651,15 @@ Hauterivian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 129.4--132.6 Ma
 
 :::
 
-## {data-menu-title="Valanginian" background-color="#99D36A"}
+:::
 
-::: {.columns}
+## {data-menu-title="Valanginian" background-color="#99D36A"}
 
 ::: {.column width="30%"}
 
@@ -670,15 +669,15 @@ Valanginian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 132.6--139.8 Ma
 
 :::
 
-## {data-menu-title="Berriasian" background-color="#8CCD60"}
+:::
 
-::: {.columns}
+## {data-menu-title="Berriasian" background-color="#8CCD60"}
 
 ::: {.column width="30%"}
 
@@ -688,15 +687,15 @@ Berriasian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 139.8--145 Ma
 
 :::
 
-## {data-menu-title="Tithonian" background-color="#D9F1F7"}
+:::
 
-::: {.columns}
+## {data-menu-title="Tithonian" background-color="#D9F1F7"}
 
 ::: {.column width="30%"}
 
@@ -706,15 +705,15 @@ Tithonian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 145--149.2 Ma
 
 :::
 
-## {data-menu-title="Kimmeridgian" background-color="#CCECF4"}
+:::
 
-::: {.columns}
+## {data-menu-title="Kimmeridgian" background-color="#CCECF4"}
 
 ::: {.column width="30%"}
 
@@ -724,15 +723,15 @@ Kimmeridgian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 149.2--154.8 Ma
 
 :::
 
-## {data-menu-title="Oxfordian" background-color="#BFE7F1"}
+:::
 
-::: {.columns}
+## {data-menu-title="Oxfordian" background-color="#BFE7F1"}
 
 ::: {.column width="30%"}
 
@@ -742,15 +741,15 @@ Oxfordian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 154.8--161.5 Ma
 
 :::
 
-## {data-menu-title="Callovian" background-color="#BFE7E5"}
+:::
 
-::: {.columns}
+## {data-menu-title="Callovian" background-color="#BFE7E5"}
 
 ::: {.column width="30%"}
 
@@ -760,15 +759,15 @@ Callovian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 161.5--165.3 Ma
 
 :::
 
-## {data-menu-title="Bathonian" background-color="#B3E2E3"}
+:::
 
-::: {.columns}
+## {data-menu-title="Bathonian" background-color="#B3E2E3"}
 
 ::: {.column width="30%"}
 
@@ -778,15 +777,15 @@ Bathonian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 165.3--168.2 Ma
 
 :::
 
-## {data-menu-title="Bajocian" background-color="#A6DDE0"}
+:::
 
-::: {.columns}
+## {data-menu-title="Bajocian" background-color="#A6DDE0"}
 
 ::: {.column width="30%"}
 
@@ -796,15 +795,15 @@ Bajocian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 168.2--170.9 Ma
 
 :::
 
-## {data-menu-title="Aalenian" background-color="#9AD9DD"}
+:::
 
-::: {.columns}
+## {data-menu-title="Aalenian" background-color="#9AD9DD"}
 
 ::: {.column width="30%"}
 
@@ -814,15 +813,15 @@ Aalenian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 170.9--174.7 Ma
 
 :::
 
-## {data-menu-title="Toarcian" background-color="#99CEE3"}
+:::
 
-::: {.columns}
+## {data-menu-title="Toarcian" background-color="#99CEE3"}
 
 ::: {.column width="30%"}
 
@@ -832,15 +831,15 @@ Toarcian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 174.7--184.2 Ma
 
 :::
 
-## {data-menu-title="Pliensbachian" background-color="#80C5DD"}
+:::
 
-::: {.columns}
+## {data-menu-title="Pliensbachian" background-color="#80C5DD"}
 
 ::: {.column width="30%"}
 
@@ -850,15 +849,15 @@ Pliensbachian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 184.2--192.9 Ma
 
 :::
 
-## {data-menu-title="Sinemurian" background-color="#67BCD8"}
+:::
 
-::: {.columns}
+## {data-menu-title="Sinemurian" background-color="#67BCD8"}
 
 ::: {.column width="30%"}
 
@@ -868,15 +867,15 @@ Sinemurian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 192.9--199.5 Ma
 
 :::
 
-## {data-menu-title="Hettangian" background-color="#4EB3D3"}
+:::
 
-::: {.columns}
+## {data-menu-title="Hettangian" background-color="#4EB3D3"}
 
 ::: {.column width="30%"}
 
@@ -886,15 +885,15 @@ Hettangian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 199.5--201.4 Ma
 
 :::
 
-## {data-menu-title="Rhaetian" background-color="#E3B9DB"}
+:::
 
-::: {.columns}
+## {data-menu-title="Rhaetian" background-color="#E3B9DB"}
 
 ::: {.column width="30%"}
 
@@ -904,15 +903,15 @@ Rhaetian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 201.4--208.5 Ma
 
 :::
 
-## {data-menu-title="Norian" background-color="#D6AAD3"}
+:::
 
-::: {.columns}
+## {data-menu-title="Norian" background-color="#D6AAD3"}
 
 ::: {.column width="30%"}
 
@@ -922,15 +921,15 @@ Norian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 208.5--227 Ma
 
 :::
 
-## {data-menu-title="Carnian" background-color="#C99BCB"}
+:::
 
-::: {.columns}
+## {data-menu-title="Carnian" background-color="#C99BCB"}
 
 ::: {.column width="30%"}
 
@@ -940,15 +939,15 @@ Carnian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 227--237 Ma
 
 :::
 
-## {data-menu-title="Ladinian" background-color="#C983BF"}
+:::
 
-::: {.columns}
+## {data-menu-title="Ladinian" background-color="#C983BF"}
 
 ::: {.column width="30%"}
 
@@ -958,15 +957,15 @@ Ladinian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 237--242 Ma
 
 :::
 
-## {data-menu-title="Anisian" background-color="#BC75B7"}
+:::
 
-::: {.columns}
+## {data-menu-title="Anisian" background-color="#BC75B7"}
 
 ::: {.column width="30%"}
 
@@ -976,15 +975,15 @@ Anisian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 242--247.2 Ma
 
 :::
 
-## {data-menu-title="Olenekian" background-color="#B051A5"}
+:::
 
-::: {.columns}
+## {data-menu-title="Olenekian" background-color="#B051A5"}
 
 ::: {.column width="30%"}
 
@@ -994,15 +993,15 @@ Olenekian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 247.2--251.2 Ma
 
 :::
 
-## {data-menu-title="Induan" background-color="#A4469F"}
+:::
 
-::: {.columns}
+## {data-menu-title="Induan" background-color="#A4469F"}
 
 ::: {.column width="30%"}
 
@@ -1012,15 +1011,15 @@ Induan
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 251.2--251.902 Ma
 
 :::
 
-## {data-menu-title="Changhsingian" background-color="#FCC0B2"}
+:::
 
-::: {.columns}
+## {data-menu-title="Changhsingian" background-color="#FCC0B2"}
 
 ::: {.column width="30%"}
 
@@ -1030,15 +1029,15 @@ Changhsingian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 251.902--254.14 Ma
 
 :::
 
-## {data-menu-title="Wuchiapingian" background-color="#FCB4A2"}
+:::
 
-::: {.columns}
+## {data-menu-title="Wuchiapingian" background-color="#FCB4A2"}
 
 ::: {.column width="30%"}
 
@@ -1048,15 +1047,15 @@ Wuchiapingian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 254.14--259.51 Ma
 
 :::
 
-## {data-menu-title="Capitanian" background-color="#FB9A85"}
+:::
 
-::: {.columns}
+## {data-menu-title="Capitanian" background-color="#FB9A85"}
 
 ::: {.column width="30%"}
 
@@ -1066,15 +1065,15 @@ Capitanian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 259.51--264.28 Ma
 
 :::
 
-## {data-menu-title="Wordian" background-color="#FB8D76"}
+:::
 
-::: {.columns}
+## {data-menu-title="Wordian" background-color="#FB8D76"}
 
 ::: {.column width="30%"}
 
@@ -1084,15 +1083,15 @@ Wordian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 264.28--266.9 Ma
 
 :::
 
-## {data-menu-title="Roadian" background-color="#FB8069"}
+:::
 
-::: {.columns}
+## {data-menu-title="Roadian" background-color="#FB8069"}
 
 ::: {.column width="30%"}
 
@@ -1102,15 +1101,15 @@ Roadian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 266.9--273.01 Ma
 
 :::
 
-## {data-menu-title="Kungurian" background-color="#E38776"}
+:::
 
-::: {.columns}
+## {data-menu-title="Kungurian" background-color="#E38776"}
 
 ::: {.column width="30%"}
 
@@ -1120,15 +1119,15 @@ Kungurian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 273.01--283.5 Ma
 
 :::
 
-## {data-menu-title="Artinskian" background-color="#E37B68"}
+:::
 
-::: {.columns}
+## {data-menu-title="Artinskian" background-color="#E37B68"}
 
 ::: {.column width="30%"}
 
@@ -1138,15 +1137,15 @@ Artinskian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 283.5--290.1 Ma
 
 :::
 
-## {data-menu-title="Sakmarian" background-color="#E36F5C"}
+:::
 
-::: {.columns}
+## {data-menu-title="Sakmarian" background-color="#E36F5C"}
 
 ::: {.column width="30%"}
 
@@ -1156,15 +1155,15 @@ Sakmarian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 290.1--293.52 Ma
 
 :::
 
-## {data-menu-title="Asselian" background-color="#E36350"}
+:::
 
-::: {.columns}
+## {data-menu-title="Asselian" background-color="#E36350"}
 
 ::: {.column width="30%"}
 
@@ -1174,15 +1173,15 @@ Asselian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 293.52--298.9 Ma
 
 :::
 
-## {data-menu-title="Gzhelian" background-color="#CCD4C7"}
+:::
 
-::: {.columns}
+## {data-menu-title="Gzhelian" background-color="#CCD4C7"}
 
 ::: {.column width="30%"}
 
@@ -1192,15 +1191,15 @@ Gzhelian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 298.9--303.7 Ma
 
 :::
 
-## {data-menu-title="Kasimovian" background-color="#BFD0C5"}
+:::
 
-::: {.columns}
+## {data-menu-title="Kasimovian" background-color="#BFD0C5"}
 
 ::: {.column width="30%"}
 
@@ -1210,15 +1209,15 @@ Kasimovian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 303.7--307 Ma
 
 :::
 
-## {data-menu-title="Moscovian" background-color="#C7CBB9"}
+:::
 
-::: {.columns}
+## {data-menu-title="Moscovian" background-color="#C7CBB9"}
 
 ::: {.column width="30%"}
 
@@ -1228,15 +1227,15 @@ Moscovian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 307--315.2 Ma
 
 :::
 
-## {data-menu-title="Bashkirian" background-color="#99C2B5"}
+:::
 
-::: {.columns}
+## {data-menu-title="Bashkirian" background-color="#99C2B5"}
 
 ::: {.column width="30%"}
 
@@ -1246,15 +1245,15 @@ Bashkirian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 315.2--323.2 Ma
 
 :::
 
-## {data-menu-title="Serpukhovian" background-color="#BFC26B"}
+:::
 
-::: {.columns}
+## {data-menu-title="Serpukhovian" background-color="#BFC26B"}
 
 ::: {.column width="30%"}
 
@@ -1264,15 +1263,15 @@ Serpukhovian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 323.2--330.9 Ma
 
 :::
 
-## {data-menu-title="Visean" background-color="#A6B96C"}
+:::
 
-::: {.columns}
+## {data-menu-title="Visean" background-color="#A6B96C"}
 
 ::: {.column width="30%"}
 
@@ -1282,15 +1281,15 @@ Visean
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 330.9--346.7 Ma
 
 :::
 
-## {data-menu-title="Tournaisian" background-color="#8CB06C"}
+:::
 
-::: {.columns}
+## {data-menu-title="Tournaisian" background-color="#8CB06C"}
 
 ::: {.column width="30%"}
 
@@ -1300,15 +1299,15 @@ Tournaisian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 346.7--358.9 Ma
 
 :::
 
-## {data-menu-title="Famennian" background-color="#F2EDC5"}
+:::
 
-::: {.columns}
+## {data-menu-title="Famennian" background-color="#F2EDC5"}
 
 ::: {.column width="30%"}
 
@@ -1318,15 +1317,15 @@ Famennian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 358.9--372.2 Ma
 
 :::
 
-## {data-menu-title="Frasnian" background-color="#F2EDAD"}
+:::
 
-::: {.columns}
+## {data-menu-title="Frasnian" background-color="#F2EDAD"}
 
 ::: {.column width="30%"}
 
@@ -1336,15 +1335,15 @@ Frasnian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 372.2--382.7 Ma
 
 :::
 
-## {data-menu-title="Givetian" background-color="#F1E185"}
+:::
 
-::: {.columns}
+## {data-menu-title="Givetian" background-color="#F1E185"}
 
 ::: {.column width="30%"}
 
@@ -1354,15 +1353,15 @@ Givetian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 382.7--387.7 Ma
 
 :::
 
-## {data-menu-title="Eifelian" background-color="#F1D576"}
+:::
 
-::: {.columns}
+## {data-menu-title="Eifelian" background-color="#F1D576"}
 
 ::: {.column width="30%"}
 
@@ -1372,15 +1371,15 @@ Eifelian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 387.7--393.3 Ma
 
 :::
 
-## {data-menu-title="Emsian" background-color="#E5D075"}
+:::
 
-::: {.columns}
+## {data-menu-title="Emsian" background-color="#E5D075"}
 
 ::: {.column width="30%"}
 
@@ -1390,15 +1389,15 @@ Emsian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 393.3--407.6 Ma
 
 :::
 
-## {data-menu-title="Pragian" background-color="#E5C468"}
+:::
 
-::: {.columns}
+## {data-menu-title="Pragian" background-color="#E5C468"}
 
 ::: {.column width="30%"}
 
@@ -1408,15 +1407,15 @@ Pragian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 407.6--410.8 Ma
 
 :::
 
-## {data-menu-title="Lochkovian" background-color="#E5B75A"}
+:::
 
-::: {.columns}
+## {data-menu-title="Lochkovian" background-color="#E5B75A"}
 
 ::: {.column width="30%"}
 
@@ -1426,15 +1425,15 @@ Lochkovian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 410.8--419.2 Ma
 
 :::
 
-## {data-menu-title="Pridoli" background-color="#E6F5E1"}
+:::
 
-::: {.columns}
+## {data-menu-title="Pridoli" background-color="#E6F5E1"}
 
 ::: {.column width="30%"}
 
@@ -1444,15 +1443,15 @@ Pridoli
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 419.2--423 Ma
 
 :::
 
-## {data-menu-title="Ludfordian" background-color="#D9F0DF"}
+:::
 
-::: {.columns}
+## {data-menu-title="Ludfordian" background-color="#D9F0DF"}
 
 ::: {.column width="30%"}
 
@@ -1462,15 +1461,15 @@ Ludfordian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 423--425.6 Ma
 
 :::
 
-## {data-menu-title="Gorstian" background-color="#CCECDD"}
+:::
 
-::: {.columns}
+## {data-menu-title="Gorstian" background-color="#CCECDD"}
 
 ::: {.column width="30%"}
 
@@ -1480,15 +1479,15 @@ Gorstian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 425.6--427.4 Ma
 
 :::
 
-## {data-menu-title="Homerian" background-color="#CCEBD1"}
+:::
 
-::: {.columns}
+## {data-menu-title="Homerian" background-color="#CCEBD1"}
 
 ::: {.column width="30%"}
 
@@ -1498,15 +1497,15 @@ Homerian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 427.4--430.5 Ma
 
 :::
 
-## {data-menu-title="Sheinwoodian" background-color="#BFE6C3"}
+:::
 
-::: {.columns}
+## {data-menu-title="Sheinwoodian" background-color="#BFE6C3"}
 
 ::: {.column width="30%"}
 
@@ -1516,15 +1515,15 @@ Sheinwoodian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 430.5--433.4 Ma
 
 :::
 
-## {data-menu-title="Telychian" background-color="#BFE6CF"}
+:::
 
-::: {.columns}
+## {data-menu-title="Telychian" background-color="#BFE6CF"}
 
 ::: {.column width="30%"}
 
@@ -1534,15 +1533,15 @@ Telychian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 433.4--438.5 Ma
 
 :::
 
-## {data-menu-title="Aeronian" background-color="#B3E1C2"}
+:::
 
-::: {.columns}
+## {data-menu-title="Aeronian" background-color="#B3E1C2"}
 
 ::: {.column width="30%"}
 
@@ -1552,15 +1551,15 @@ Aeronian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 438.5--440.8 Ma
 
 :::
 
-## {data-menu-title="Rhuddanian" background-color="#A6DCB5"}
+:::
 
-::: {.columns}
+## {data-menu-title="Rhuddanian" background-color="#A6DCB5"}
 
 ::: {.column width="30%"}
 
@@ -1570,15 +1569,15 @@ Rhuddanian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 440.8--443.8 Ma
 
 :::
 
-## {data-menu-title="Hirnantian" background-color="#A6DBAB"}
+:::
 
-::: {.columns}
+## {data-menu-title="Hirnantian" background-color="#A6DBAB"}
 
 ::: {.column width="30%"}
 
@@ -1588,15 +1587,15 @@ Hirnantian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 443.8--445.2 Ma
 
 :::
 
-## {data-menu-title="Katian" background-color="#99D69F"}
+:::
 
-::: {.columns}
+## {data-menu-title="Katian" background-color="#99D69F"}
 
 ::: {.column width="30%"}
 
@@ -1606,15 +1605,15 @@ Katian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 445.2--453 Ma
 
 :::
 
-## {data-menu-title="Sandbian" background-color="#8CD094"}
+:::
 
-::: {.columns}
+## {data-menu-title="Sandbian" background-color="#8CD094"}
 
 ::: {.column width="30%"}
 
@@ -1624,15 +1623,15 @@ Sandbian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 453--458.4 Ma
 
 :::
 
-## {data-menu-title="Darriwilian" background-color="#74C69C"}
+:::
 
-::: {.columns}
+## {data-menu-title="Darriwilian" background-color="#74C69C"}
 
 ::: {.column width="30%"}
 
@@ -1642,15 +1641,15 @@ Darriwilian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 458.4--467.3 Ma
 
 :::
 
-## {data-menu-title="Dapingian" background-color="#66C092"}
+:::
 
-::: {.columns}
+## {data-menu-title="Dapingian" background-color="#66C092"}
 
 ::: {.column width="30%"}
 
@@ -1660,15 +1659,15 @@ Dapingian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 467.3--470 Ma
 
 :::
 
-## {data-menu-title="Floian" background-color="#41B087"}
+:::
 
-::: {.columns}
+## {data-menu-title="Floian" background-color="#41B087"}
 
 ::: {.column width="30%"}
 
@@ -1678,15 +1677,15 @@ Floian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 470--477.7 Ma
 
 :::
 
-## {data-menu-title="Tremadocian" background-color="#33A97E"}
+:::
 
-::: {.columns}
+## {data-menu-title="Tremadocian" background-color="#33A97E"}
 
 ::: {.column width="30%"}
 
@@ -1696,15 +1695,15 @@ Tremadocian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 477.7--485.4 Ma
 
 :::
 
-## {data-menu-title="Stage 10" background-color="#E6F5C9"}
+:::
 
-::: {.columns}
+## {data-menu-title="Stage 10" background-color="#E6F5C9"}
 
 ::: {.column width="30%"}
 
@@ -1714,15 +1713,15 @@ Stage 10
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 485.4--489.5 Ma
 
 :::
 
-## {data-menu-title="Jiangshanian" background-color="#D9F0BB"}
+:::
 
-::: {.columns}
+## {data-menu-title="Jiangshanian" background-color="#D9F0BB"}
 
 ::: {.column width="30%"}
 
@@ -1732,15 +1731,15 @@ Jiangshanian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 489.5--494 Ma
 
 :::
 
-## {data-menu-title="Paibian" background-color="#CCEBAE"}
+:::
 
-::: {.columns}
+## {data-menu-title="Paibian" background-color="#CCEBAE"}
 
 ::: {.column width="30%"}
 
@@ -1750,15 +1749,15 @@ Paibian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 494--497 Ma
 
 :::
 
-## {data-menu-title="Guzhangian" background-color="#CCDFAA"}
+:::
 
-::: {.columns}
+## {data-menu-title="Guzhangian" background-color="#CCDFAA"}
 
 ::: {.column width="30%"}
 
@@ -1768,15 +1767,15 @@ Guzhangian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 497--500.5 Ma
 
 :::
 
-## {data-menu-title="Drumian" background-color="#BFD99D"}
+:::
 
-::: {.columns}
+## {data-menu-title="Drumian" background-color="#BFD99D"}
 
 ::: {.column width="30%"}
 
@@ -1786,15 +1785,15 @@ Drumian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 500.5--504.5 Ma
 
 :::
 
-## {data-menu-title="Wuliuan" background-color="#B3D492"}
+:::
 
-::: {.columns}
+## {data-menu-title="Wuliuan" background-color="#B3D492"}
 
 ::: {.column width="30%"}
 
@@ -1804,15 +1803,15 @@ Wuliuan
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 504.5--509 Ma
 
 :::
 
-## {data-menu-title="Stage 4" background-color="#B3CA8E"}
+:::
 
-::: {.columns}
+## {data-menu-title="Stage 4" background-color="#B3CA8E"}
 
 ::: {.column width="30%"}
 
@@ -1822,15 +1821,15 @@ Stage 4
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 509--514 Ma
 
 :::
 
-## {data-menu-title="Stage 3" background-color="#A6C583"}
+:::
 
-::: {.columns}
+## {data-menu-title="Stage 3" background-color="#A6C583"}
 
 ::: {.column width="30%"}
 
@@ -1840,15 +1839,15 @@ Stage 3
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 514--521 Ma
 
 :::
 
-## {data-menu-title="Stage 2" background-color="#A6BA80"}
+:::
 
-::: {.columns}
+## {data-menu-title="Stage 2" background-color="#A6BA80"}
 
 ::: {.column width="30%"}
 
@@ -1858,15 +1857,15 @@ Stage 2
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 521--529 Ma
 
 :::
 
-## {data-menu-title="Fortunian" background-color="#99B575"}
+:::
 
-::: {.columns}
+## {data-menu-title="Fortunian" background-color="#99B575"}
 
 ::: {.column width="30%"}
 
@@ -1876,10 +1875,11 @@ Fortunian
 
 :::
 
-:::
+::: {style="font-size:30px"}
 
 529--538.8 Ma
 
 :::
 
 :::
+
