@@ -60,9 +60,9 @@ cat('<div style="background-image:linear-gradient(lightblue, #FEF2E0); height:10
   <h1>
   Origins
   </h1>
-  <h2>
+  <h3>
   Earth History Events
-  </h2>
+  </h3>
   <h3>
   Made by <a href="https://twitter.com/LewisAlanJones">Lewis A. Jones</a> & <a href="https://twitter.com/MirantaKouvari">Miranta Kouvari</a>
   </h3>
