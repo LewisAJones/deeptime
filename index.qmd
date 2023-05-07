@@ -4,13 +4,12 @@ format:
     page-layout: custom
     css: style.scss
 ---
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <div style="background-image:linear-gradient(lightblue, #FEF2E0); height:100vh">
   <h1>
   Origins
   </h1>
   <h3>
-  Lewis A. Jones & Miranta Kouvari
+  Earth History Events
   </h3>
 </div>
     

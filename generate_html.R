@@ -61,7 +61,7 @@ cat('<div style="background-image:linear-gradient(lightblue, #FEF2E0); height:10
   Origins
   </h1>
   <h3>
-  Lewis A. Jones & Miranta Kouvari
+  Earth History Events
   </h3>
 </div>
     ', file = "index.qmd", append = TRUE, sep = "\n")

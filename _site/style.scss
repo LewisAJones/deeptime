@@ -5,6 +5,11 @@
 $body-bg: lightblue;
 $body-color: black;
 $link-color: black;
+$link-decoration: none;
+
+.navbar li.nav-item a.nav-link span {
+  color: black !important;
+}
 
 // Font sizes
 $presentation-font-size-root: 30px;

@@ -25,13 +25,16 @@ website:
     creator: "@LewisAlanJones"
     site: "@LewisAlanJones"
   navbar:
-    title: false
+    title: |
+      [Lewis A. Jones](https://lewisajones.com)
+      //
+      [Miranta Kouvari](https://www.mirantakouvari.com)
     foreground: "black"
     background: "transparent"
     search: false
     right:
-      - text: "Origins"
-        file: index.qmd
+      - text: "Contribute"
+        href: "https://forms.gle/42fqXep3b8pf8KMk8"
       - icon: twitter
         href: "https://twitter.com/LewisAlanJones"
       - icon: github
