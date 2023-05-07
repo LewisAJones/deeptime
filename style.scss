@@ -2,7 +2,7 @@
 
 /*-- scss:defaults --*/
 // Base document colors
-$body-bg: black;
+$body-bg: lightgrey;
 $body-color: black;
 $link-color: black;
 
@@ -30,40 +30,49 @@ $code-block-bg-alpha: -.8;
   }
 }
 
+p {
+   margin:0;
+}
+
 h1 {
-  font-size: 50vh;
+  font-size: 30vw;
   text-align: center;
+  margin:0;
 }
 
 h2 {
   text-decoration: none;
-  font-size: 5vh;
+  font-size: 5vw;
   text-align: center;
+  margin:0;
 }
 
 h3 {
-  font-size: 5vh;
+  font-size: 3vw;
   text-align: center;
+  margin:0;
 }
 
 h4 {
   text-decoration: none;
-  font-size: 6vh;
+  font-size: 4vw;
   text-align: left;
   padding-left: 2vw;
+  margin:0;
 }
 
 h5 {
   text-decoration: none;
-  font-size: 3vh;
+  font-size: 2vw;
   text-align: left;
   padding-left: 2vw;
+  margin:0;
 }
 
 div.sticky {
   position: -webkit-sticky; /* Safari */
   position: sticky;
-  font-size: 10vh;
+  font-size: 10vw;
   padding-left: 2vw;
   text-align: left;
   top: 0;
