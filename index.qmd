@@ -3,7 +3,6 @@ format:
   html:
     page-layout: custom
     css: style.scss
-    self-contained: true
 ---
 <div style="background-image:linear-gradient(white, white); height:100vh">
   <h1>

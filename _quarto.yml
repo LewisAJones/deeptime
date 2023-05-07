@@ -1,2 +1,48 @@
 project:
   type: website
+
+execute:
+  freeze: auto
+
+website:
+  title: "Origins"
+  site-url: https://origins.palaeobiology.org
+  description: "Origins website"
+  image: "images/dinosaur-extinction.png"
+  favicon: "assets/favicon.png"
+  open-graph:
+    image: "images/dinosaur-extinction.png"
+    image-width: 500
+    image-height: 500
+    locale: en-GB
+  twitter-card:
+    title: Lewis A. Jones
+    description: "Origins website"
+    image: "images/dinosaur-extinction.png"
+    image-width: 500
+    image-height: 500
+    card-style: summary
+    creator: "@LewisAlanJones"
+    site: "@LewisAlanJones"
+  navbar:
+    title: 'Origins'
+    foreground: "#00bc8c"
+    background: "black"
+    search: true
+    right:
+      - icon: twitter
+        href: "https://twitter.com/LewisAlanJones"
+      - icon: github
+        href: "https://github.com/LewisAJones"
+      - icon: envelope-fill
+        href: "mailto:LewisA.Jones@outlook.com"
+
+format:
+  html:
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
+
+editor: source
+
