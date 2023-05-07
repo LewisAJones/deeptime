@@ -60,8 +60,11 @@ cat('<div style="background-image:linear-gradient(lightblue, #FEF2E0); height:10
   <h1>
   Origins
   </h1>
-  <h3>
+  <h2>
   Earth History Events
+  </h2>
+  <h3>
+  Made by <a href="https://twitter.com/LewisAlanJones">Lewis A. Jones</a> & <a href="https://twitter.com/MirantaKouvari">Miranta Kouvari</a>
   </h3>
 </div>
     ', file = "index.qmd", append = TRUE, sep = "\n")

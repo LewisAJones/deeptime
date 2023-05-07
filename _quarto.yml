@@ -10,6 +10,7 @@ website:
   description: "Origins website"
   image: "images/dinosaur-extinction.png"
   favicon: "assets/favicon.png"
+  search: false
   open-graph:
     image: "images/dinosaur-extinction.png"
     image-width: 500
@@ -25,18 +26,17 @@ website:
     creator: "@LewisAlanJones"
     site: "@LewisAlanJones"
   navbar:
-    title: |
-      [Lewis A. Jones](https://lewisajones.com)
-      //
-      [Miranta Kouvari](https://www.mirantakouvari.com)
+    title: false
+    collapse: false
     foreground: "black"
     background: "transparent"
-    search: false
     right:
       - text: "Contribute"
         href: "https://forms.gle/42fqXep3b8pf8KMk8"
       - icon: twitter
         href: "https://twitter.com/LewisAlanJones"
+      - icon: cup-fill
+        href: "https://github.com/LewisAJones"
       - icon: github
         href: "https://github.com/LewisAJones"
       - icon: envelope-fill
