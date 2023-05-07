@@ -1,13 +1,43 @@
 library(quarto)
-library(palaeoverse)
 library(googlesheets4)
 
 # Get data and merge
-stages <- time_bins()
-colnames(stages)[which(colnames(stages) == "interval_name")] <- "interval"
+stages <- read.csv("https://macrostrat.org/api/v2/defs/intervals?timescale=international%20ages&format=csv")
+periods <- read.csv("https://macrostrat.org/api/v2/defs/intervals?timescale=international%20periods&format=csv")
+eras <- read.csv("https://macrostrat.org/api/v2/defs/intervals?timescale=international%20eras&format=csv")
+eons <- read.csv("https://macrostrat.org/api/v2/defs/intervals?timescale=international%20eons&format=csv")
+
+periods <- subset(periods, t_age >= max(stages$b_age))
+stages <- rbind.data.frame(stages, periods)
+
+eras <- subset(eras, t_age >= max(stages$b_age))
+stages <- rbind.data.frame(stages, eras)
+
+eons <- subset(eons, t_age >= max(stages$b_age))
+stages <- rbind.data.frame(stages, eons)
+# Add Hadean
+hadean <- data.frame(int_id = NA, name = "Hadean", abbrev = NA,
+           t_age = 4000, b_age = 4567, int_type = "eon",
+           timescales = "custom", color = "#a2247c")
+stages <- rbind.data.frame(stages, hadean)
+
+# Add font colour if it doesn't exist
+rgbs <- col2rgb(stages$color)
+luminance <- apply(rgbs, 2, function(x) {
+  (0.299 * x[1] + 0.587 * x[2] + 0.114 * x[3]) / 255
+})
+stages$font <- ifelse(luminance > .5, "black", "white")
+# Update name
+colnames(stages)[which(colnames(stages) == "name")] <- "interval"
+colnames(stages)[which(colnames(stages) == "t_age")] <- "min_ma"
+colnames(stages)[which(colnames(stages) == "b_age")] <- "max_ma"
+colnames(stages)[which(colnames(stages) == "color")] <- "colour"
+
+# Add data
 df <- read_sheet("https://docs.google.com/spreadsheets/d/1lPn72Zc40iH6mqjmkhGZdqt1RBm5ESmwO0xndNUsI_I/edit?usp=sharing")
 df <- merge(x = stages, y = df, by = "interval", all.x = TRUE)
 df <- df[order(df$min_ma), ]
+
 
 # Function for generating divs
 create_div <- function(cols, height){
@@ -26,7 +56,7 @@ format:
     css: style.scss
 ---', file = "index.qmd", sep = "\n")
 
-cat('<div style="background-image:linear-gradient(white, white); height:100vh">
+cat('<div style="background-image:linear-gradient(lightblue, #FEF2E0); height:100vh">
   <h1>
   Origins
   </h1>
@@ -58,14 +88,6 @@ for (i in 1:nrow(df)) {
     # Close div
     cat('</div>', file = "index.qmd", append = TRUE)
     cat(paste0('\n'), file = "index.qmd", append = TRUE)
-    # Close div
-    cat('</div>', file = "index.qmd", append = TRUE)
-    # Add space
-    cat(paste0('\n'), file = "index.qmd", append = TRUE)
-    # Create div
-    create_div(cols = c("white", "white"), height = height)
-    # Add space
-    cat(paste0('\n\n'), file = "index.qmd", append = TRUE)
     # Close div
     cat('</div>', file = "index.qmd", append = TRUE)
     break

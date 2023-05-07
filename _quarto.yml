@@ -25,22 +25,33 @@ website:
     creator: "@LewisAlanJones"
     site: "@LewisAlanJones"
   navbar:
-    title: 'Origins'
-    foreground: "#00bc8c"
-    background: "black"
-    search: true
+    title: false
+    foreground: "black"
+    background: "transparent"
+    search: false
     right:
+      - text: "Origins"
+        file: index.qmd
       - icon: twitter
         href: "https://twitter.com/LewisAlanJones"
       - icon: github
         href: "https://github.com/LewisAJones"
       - icon: envelope-fill
         href: "mailto:LewisA.Jones@outlook.com"
+  page-footer:
+    border: false
+    background: "#a2247c"
+    left: "Copyright 2023, Lewis A. Jones"
+    right:
+      - icon: github
+        href: https://github.com/LewisAJones
+      - icon: twitter
+        href: https://twitter.com/LewisAlanJones
 
 format:
   html:
     theme: style.scss
-    css: styles.scss
+    css: style.scss
     toc: true
     smooth-scroll: true
     link-external-newwindow: true
