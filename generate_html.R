@@ -1,13 +1,13 @@
 library(quarto)
-library(deeptime)
+library(palaeoverse)
 library(googlesheets4)
 
 # Get data and merge
-data("stages")
-colnames(stages)[which(colnames(stages) == "name")] <- "interval"
+stages <- time_bins()
+colnames(stages)[which(colnames(stages) == "interval_name")] <- "interval"
 df <- read_sheet("https://docs.google.com/spreadsheets/d/1lPn72Zc40iH6mqjmkhGZdqt1RBm5ESmwO0xndNUsI_I/edit?usp=sharing")
 df <- merge(x = stages, y = df, by = "interval", all.x = TRUE)
-df <- df[order(df$min_age), ]
+df <- df[order(df$min_ma), ]
 
 # Function for generating divs
 create_div <- function(cols, height){
@@ -42,7 +42,7 @@ for (i in 1:nrow(df)) {
   # create cols
   if (i == nrow(df)) {
     # Create last divs
-    cols <- c(df$color[i], df$color[i], df$color[i])
+    cols <- c(df$colour[i], df$colour[i], df$colour[i])
     # Create div
     create_div(cols = cols, height = height)
     # Add space
@@ -51,9 +51,9 @@ for (i in 1:nrow(df)) {
     cat(paste0('\n'), file = "index.qmd", append = TRUE)
     cat('<div class="sticky">', file = "index.qmd", append = TRUE)
     cat(paste0('\n'), file = "index.qmd", append = TRUE)
-    cat(paste0('<h4>', df$interval[i], '</h4>'), file = "index.qmd", append = TRUE)
+    cat(paste0('<h4 style="color:', df$font[i], '">', df$interval[i], '</h4>'), file = "index.qmd", append = TRUE)
     cat(paste0('\n'), file = "index.qmd", append = TRUE)
-    cat(paste0('<h5>', df$min_age[i], '--', df$max_age[i], ' Ma', '</h5>'), file = "index.qmd", append = TRUE)
+    cat(paste0('<h5 style="color:', df$font[i], '">', df$min_ma[i], '--', df$max_ma[i], ' Ma', '</h5>'), file = "index.qmd", append = TRUE)
     cat(paste0('\n'), file = "index.qmd", append = TRUE)
     # Close div
     cat('</div>', file = "index.qmd", append = TRUE)
@@ -71,7 +71,7 @@ for (i in 1:nrow(df)) {
     break
   }
   # Set cols
-  cols <- c(df$color[i], df$color[i], df$color[i+1])
+  cols <- c(df$colour[i], df$colour[i], df$colour[i+1])
   # Create div
   create_div(cols = cols, height = height)
 
@@ -79,9 +79,9 @@ for (i in 1:nrow(df)) {
   cat(paste0('\n'), file = "index.qmd", append = TRUE)
   cat('<div class="sticky">', file = "index.qmd", append = TRUE)
   cat(paste0('\n'), file = "index.qmd", append = TRUE)
-  cat(paste0('<h4>', df$interval[i], '</h4>'), file = "index.qmd", append = TRUE)
+  cat(paste0('<h4 style="color:', df$font[i], '">', df$interval[i], '</h4>'), file = "index.qmd", append = TRUE)
   cat(paste0('\n'), file = "index.qmd", append = TRUE)
-  cat(paste0('<h5>', df$min_age[i], '--', df$max_age[i], ' Ma', '</h5>'), file = "index.qmd", append = TRUE)
+  cat(paste0('<h5 style="color:', df$font[i], '">', df$min_ma[i], '--', df$max_ma[i], ' Ma', '</h5>'), file = "index.qmd", append = TRUE)
   cat(paste0('\n'), file = "index.qmd", append = TRUE)
   # Close div
   cat('</div>', file = "index.qmd", append = TRUE)
