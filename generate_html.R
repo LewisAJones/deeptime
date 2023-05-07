@@ -43,7 +43,7 @@ df <- df[order(df$min_ma), ]
 create_div <- function(cols, height){
   open <- paste0('<div style="background-image:linear-gradient(')
   cols <- toString(cols)
-  height <- paste0('); height:', height, 'vh">')
+  height <- paste0('); height:', height, 'vh; width:', height, 'vw">')
   cat(paste0(open, cols, height), file = "index.qmd", append = TRUE)
 }
 
