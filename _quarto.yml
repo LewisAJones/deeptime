@@ -33,12 +33,16 @@ website:
     right:
       - text: "Contribute"
         href: "https://forms.gle/42fqXep3b8pf8KMk8"
+        target: "_blank"
+      - icon: twitter
+        href: "https://twitter.com/MirantaKouvari"
+        target: "_blank"
       - icon: twitter
         href: "https://twitter.com/LewisAlanJones"
+        target: "_blank"
       - icon: cup-fill
-        href: "https://github.com/LewisAJones"
-      - icon: github
-        href: "https://github.com/LewisAJones"
+        href: "https://bmc.link/origins"
+        target: "_blank"
       - icon: envelope-fill
         href: "mailto:LewisA.Jones@outlook.com"
   page-footer:
@@ -46,12 +50,18 @@ website:
     background: "#a2247c"
     left: "Copyright 2023, Lewis A. Jones & Miranta Kouvari"
     right:
+      - text: "Contribute"
+        href: "https://forms.gle/42fqXep3b8pf8KMk8"
+        target: "_blank"
+      - icon: twitter
+        href: "https://twitter.com/MirantaKouvari"
+        target: "_blank"
       - icon: twitter
         href: "https://twitter.com/LewisAlanJones"
+        target: "_blank"
       - icon: cup-fill
-        href: "https://github.com/LewisAJones"
-      - icon: github
-        href: "https://github.com/LewisAJones"
+        href: "https://bmc.link/origins"
+        target: "_blank"
       - icon: envelope-fill
         href: "mailto:LewisA.Jones@outlook.com"
 

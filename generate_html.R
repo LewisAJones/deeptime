@@ -64,7 +64,7 @@ cat('<div style="background-image:linear-gradient(lightblue, #FEF2E0); height:10
   Earth History Events
   </h3>
   <h3>
-  Made by <a href="https://twitter.com/LewisAlanJones">Lewis A. Jones</a> & <a href="https://twitter.com/MirantaKouvari">Miranta Kouvari</a>
+  Made by <a href="https://lewisajones.com">Lewis A. Jones</a> & <a href="https://www.mirantakouvari.com">Miranta Kouvari</a>
   </h3>
 </div>
     ', file = "index.qmd", append = TRUE, sep = "\n")
