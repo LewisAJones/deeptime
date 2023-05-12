@@ -7,7 +7,7 @@ execute:
 website:
   title: "Origins"
   site-url: https://origins.palaeobiology.org
-  description: "Origins website"
+  description: "Scroll through Earth's History"
   image: "images/dinosaur-extinction.png"
   favicon: "assets/favicon.png"
   search: false
@@ -17,12 +17,12 @@ website:
     image-height: 500
     locale: en-GB
   twitter-card:
-    title: Lewis A. Jones
-    description: "Origins website"
+    title: "Origins"
+    description: "Scroll through Earth's History"
     image: "images/dinosaur-extinction.png"
     image-width: 500
     image-height: 500
-    card-style: summary
+    card-style: summary_large_image
     creator: "@LewisAlanJones"
     site: "@LewisAlanJones"
   navbar:
