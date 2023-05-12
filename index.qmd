@@ -12,7 +12,7 @@ format:
   Earth History Events
   </h3>
   <h3>
-  Made by <a href="https://lewisajones.com target="_blank">Lewis A. Jones</a> & <a href="https://www.mirantakouvari.com target="_blank">Miranta Kouvari</a>
+  Made by <a href="https://lewisajones.com" target="_blank">Lewis A. Jones</a> & <a href="https://www.mirantakouvari.com" target="_blank">Miranta Kouvari</a>
   </h3>
 </div>
     
