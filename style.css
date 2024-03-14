@@ -37,9 +37,8 @@ $presentation-font-size-root: 30px;
 /*-- scss:rules --*/
 
 h1 {
-  font-size: 7em;
+  font-size: calc(200px + 2vw);
   text-align: center;
-  margin:0;
   opacity: 0.1;
 }
 
@@ -132,7 +131,7 @@ img {
   color: black;
   padding: 5px 10px;
   border-radius: 5px;
-  width: 30%;
+  width: 100%;
 }
 
 
