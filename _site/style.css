@@ -37,7 +37,7 @@ $presentation-font-size-root: 30px;
 /*-- scss:rules --*/
 
 h1 {
-  font-size: calc(200px + 2vw);
+  font-size: calc(100% + 2vw);
   text-align: center;
   opacity: 0.1;
 }
