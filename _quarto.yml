@@ -34,10 +34,8 @@ website:
 
 format:
   html:
-    css: style.scss
+    css: style.css
     toc: false
     smooth-scroll: false
     link-external-newwindow: true
-
-editor: source
 

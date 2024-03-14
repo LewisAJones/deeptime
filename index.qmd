@@ -1,18 +1,16 @@
 ---
-format:
-  html:
-    page-layout: custom
-    css: style.scss
----
-
-
+pagetitle: "Welcome to Origins"
+open-graph: true
+twitter-card: true
+toc: false
+page-layout: custom
+---   
 
 ::: {.Quaternary .h1}  
 
 # Quaternary  
 
 :::  
-
 
 ::: {.Piacenzian .h1}  
 
