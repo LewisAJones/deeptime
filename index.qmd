@@ -4,834 +4,681 @@ format:
     page-layout: custom
     css: style.scss
 ---
-<div style="background-image:linear-gradient(lightblue, #FEF2E0); height:100vh">
-  <h1>
-  Origins
-  </h1>
-  <h3>
-  Earth History Events
-  </h3>
-  <h3>
-  Made by <a href="https://lewisajones.com" target="_blank">Lewis A. Jones</a> & <a href="https://www.mirantakouvari.com" target="_blank">Miranta Kouvari</a>
-  </h3>
-</div>
-    
-<div style="background-image:linear-gradient(#FEF2E0, #FEF2E0, #FEF2E0); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Meghalayan</h4>
-<h5 style="color:black">0--0.0042 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FEF2E0, #FEF2E0, #FEF2E0); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Northgrippian</h4>
-<h5 style="color:black">0.0042--0.0082 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FEF2E0, #FEF2E0, #FFF2C7); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Greenlandian</h4>
-<h5 style="color:black">0.0082--0.0117 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFF2C7, #FFF2C7, #fff2c7); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Late Pleistocene</h4>
-<h5 style="color:black">0.0117--0.129 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#fff2c7, #fff2c7, #FFF2C7); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Chibanian</h4>
-<h5 style="color:black">0.129--0.774 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFF2C7, #FFF2C7, #FFEDB3); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Calabrian</h4>
-<h5 style="color:black">0.774--1.8 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFEDB3, #FFEDB3, #FFFFBF); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Gelasian</h4>
-<h5 style="color:black">1.8--2.58 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFFFBF, #FFFFBF, #FFFFB3); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Piacenzian</h4>
-<h5 style="color:black">2.58--3.6 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFFFB3, #FFFFB3, #FFFF73); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Zanclean</h4>
-<h5 style="color:black">3.6--5.333 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFFF73, #FFFF73, #FFFF66); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Messinian</h4>
-<h5 style="color:black">5.333--7.246 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFFF66, #FFFF66, #FFFF59); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Tortonian</h4>
-<h5 style="color:black">7.246--11.63 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFFF59, #FFFF59, #FFFF4D); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Serravallian</h4>
-<h5 style="color:black">11.63--13.82 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFFF4D, #FFFF4D, #FFFF41); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Langhian</h4>
-<h5 style="color:black">13.82--15.97 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFFF41, #FFFF41, #FFFF33); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Burdigalian</h4>
-<h5 style="color:black">15.97--20.44 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFFF33, #FFFF33, #FEE6AA); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Aquitanian</h4>
-<h5 style="color:black">20.44--23.03 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FEE6AA, #FEE6AA, #FED99A); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Chattian</h4>
-<h5 style="color:black">23.03--27.82 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FED99A, #FED99A, #FDCDA1); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Rupelian</h4>
-<h5 style="color:black">27.82--33.9 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FDCDA1, #FDCDA1, #FDC091); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Priabonian</h4>
-<h5 style="color:black">33.9--37.71 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FDC091, #FDC091, #FCB482); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Bartonian</h4>
-<h5 style="color:black">37.71--41.2 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FCB482, #FCB482, #FCA773); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Lutetian</h4>
-<h5 style="color:black">41.2--47.8 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FCA773, #FCA773, #FDBF6F); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Ypresian</h4>
-<h5 style="color:black">47.8--56 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FDBF6F, #FDBF6F, #FEBF65); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Thanetian</h4>
-<h5 style="color:black">56--59.2 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FEBF65, #FEBF65, #FDB462); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Selandian</h4>
-<h5 style="color:black">59.2--61.6 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FDB462, #FDB462, #F2FA8C); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Danian</h4>
-<h5 style="color:black">61.6--66 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#F2FA8C, #F2FA8C, #E6F47F); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Maastrichtian</h4>
-<h5 style="color:black">66--72.1 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#E6F47F, #E6F47F, #D9EF74); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Campanian</h4>
-<h5 style="color:black">72.1--83.6 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#D9EF74, #D9EF74, #CCE968); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Santonian</h4>
-<h5 style="color:black">83.6--86.3 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#CCE968, #CCE968, #BFE35D); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Coniacian</h4>
-<h5 style="color:black">86.3--89.8 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#BFE35D, #BFE35D, #B3DE53); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Turonian</h4>
-<h5 style="color:black">89.8--93.9 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#B3DE53, #B3DE53, #CCEA97); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Cenomanian</h4>
-<h5 style="color:black">93.9--100.5 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#CCEA97, #CCEA97, #BFE48A); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Albian</h4>
-<h5 style="color:black">100.5--113 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#BFE48A, #BFE48A, #B3DF7F); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Aptian</h4>
-<h5 style="color:black">113--121.4 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#B3DF7F, #B3DF7F, #A6D975); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Barremian</h4>
-<h5 style="color:black">121.4--129.4 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#A6D975, #A6D975, #99D36A); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Hauterivian</h4>
-<h5 style="color:black">129.4--132.6 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#99D36A, #99D36A, #8CCD60); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Valanginian</h4>
-<h5 style="color:black">132.6--139.8 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#8CCD60, #8CCD60, #D9F1F7); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Berriasian</h4>
-<h5 style="color:black">139.8--145 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#D9F1F7, #D9F1F7, #CCECF4); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Tithonian</h4>
-<h5 style="color:black">145--149.2 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#CCECF4, #CCECF4, #BFE7F1); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Kimmeridgian</h4>
-<h5 style="color:black">149.2--154.8 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#BFE7F1, #BFE7F1, #BFE7E5); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Oxfordian</h4>
-<h5 style="color:black">154.8--161.5 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#BFE7E5, #BFE7E5, #B3E2E3); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Callovian</h4>
-<h5 style="color:black">161.5--165.3 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#B3E2E3, #B3E2E3, #A6DDE0); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Bathonian</h4>
-<h5 style="color:black">165.3--168.2 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#A6DDE0, #A6DDE0, #9AD9DD); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Bajocian</h4>
-<h5 style="color:black">168.2--170.9 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#9AD9DD, #9AD9DD, #99CEE3); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Aalenian</h4>
-<h5 style="color:black">170.9--174.7 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#99CEE3, #99CEE3, #80C5DD); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Toarcian</h4>
-<h5 style="color:black">174.7--184.2 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#80C5DD, #80C5DD, #67BCD8); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Pliensbachian</h4>
-<h5 style="color:black">184.2--192.9 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#67BCD8, #67BCD8, #4EB3D3); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Sinemurian</h4>
-<h5 style="color:black">192.9--199.5 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#4EB3D3, #4EB3D3, #E3B9DB); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Hettangian</h4>
-<h5 style="color:black">199.5--201.4 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#E3B9DB, #E3B9DB, #D6AAD3); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Rhaetian</h4>
-<h5 style="color:black">201.4--208.5 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#D6AAD3, #D6AAD3, #C99BCB); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Norian</h4>
-<h5 style="color:black">208.5--227 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#C99BCB, #C99BCB, #C983BF); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Carnian</h4>
-<h5 style="color:black">227--237 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#C983BF, #C983BF, #BC75B7); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Ladinian</h4>
-<h5 style="color:black">237--242 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#BC75B7, #BC75B7, #B051A5); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Anisian</h4>
-<h5 style="color:black">242--247.2 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#B051A5, #B051A5, #A4469F); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:white">Olenekian</h4>
-<h5 style="color:white">247.2--251.2 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#A4469F, #A4469F, #FCC0B2); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:white">Induan</h4>
-<h5 style="color:white">251.2--251.902 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FCC0B2, #FCC0B2, #FCB4A2); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Changhsingian</h4>
-<h5 style="color:black">251.902--254.14 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FCB4A2, #FCB4A2, #FB9A85); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Wuchiapingian</h4>
-<h5 style="color:black">254.14--259.51 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FB9A85, #FB9A85, #FB8D76); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Capitanian</h4>
-<h5 style="color:black">259.51--264.28 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FB8D76, #FB8D76, #FB8069); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Wordian</h4>
-<h5 style="color:black">264.28--266.9 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FB8069, #FB8069, #E38776); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Roadian</h4>
-<h5 style="color:black">266.9--273.01 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#E38776, #E38776, #E37B68); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Kungurian</h4>
-<h5 style="color:black">273.01--283.5 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#E37B68, #E37B68, #E36F5C); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Artinskian</h4>
-<h5 style="color:black">283.5--290.1 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#E36F5C, #E36F5C, #E36350); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Sakmarian</h4>
-<h5 style="color:black">290.1--293.52 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#E36350, #E36350, #CCD4C7); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Asselian</h4>
-<h5 style="color:black">293.52--298.9 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#CCD4C7, #CCD4C7, #BFD0C5); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Gzhelian</h4>
-<h5 style="color:black">298.9--303.7 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#BFD0C5, #BFD0C5, #C7CBB9); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Kasimovian</h4>
-<h5 style="color:black">303.7--307 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#C7CBB9, #C7CBB9, #99C2B5); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Moscovian</h4>
-<h5 style="color:black">307--315.2 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#99C2B5, #99C2B5, #BFC26B); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Bashkirian</h4>
-<h5 style="color:black">315.2--323.2 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#BFC26B, #BFC26B, #A6B96C); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Serpukhovian</h4>
-<h5 style="color:black">323.2--330.9 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#A6B96C, #A6B96C, #8CB06C); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Visean</h4>
-<h5 style="color:black">330.9--346.7 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#8CB06C, #8CB06C, #F2EDC5); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Tournaisian</h4>
-<h5 style="color:black">346.7--358.9 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#F2EDC5, #F2EDC5, #F2EDAD); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Famennian</h4>
-<h5 style="color:black">358.9--372.2 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#F2EDAD, #F2EDAD, #F1E185); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Frasnian</h4>
-<h5 style="color:black">372.2--382.7 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#F1E185, #F1E185, #F1D576); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Givetian</h4>
-<h5 style="color:black">382.7--387.7 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#F1D576, #F1D576, #E5D075); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Eifelian</h4>
-<h5 style="color:black">387.7--393.3 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#E5D075, #E5D075, #E5C468); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Emsian</h4>
-<h5 style="color:black">393.3--407.6 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#E5C468, #E5C468, #E5B75A); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Pragian</h4>
-<h5 style="color:black">407.6--410.8 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#E5B75A, #E5B75A, #E6F5E1); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Lochkovian</h4>
-<h5 style="color:black">410.8--419.2 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#E6F5E1, #E6F5E1, #D9F0DF); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Pridoli</h4>
-<h5 style="color:black">419.2--423 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#D9F0DF, #D9F0DF, #CCECDD); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Ludfordian</h4>
-<h5 style="color:black">423--425.6 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#CCECDD, #CCECDD, #CCEBD1); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Gorstian</h4>
-<h5 style="color:black">425.6--427.4 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#CCEBD1, #CCEBD1, #BFE6C3); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Homerian</h4>
-<h5 style="color:black">427.4--430.5 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#BFE6C3, #BFE6C3, #BFE6CF); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Sheinwoodian</h4>
-<h5 style="color:black">430.5--433.4 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#BFE6CF, #BFE6CF, #B3E1C2); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Telychian</h4>
-<h5 style="color:black">433.4--438.5 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#B3E1C2, #B3E1C2, #A6DCB5); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Aeronian</h4>
-<h5 style="color:black">438.5--440.8 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#A6DCB5, #A6DCB5, #A6DBAB); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Rhuddanian</h4>
-<h5 style="color:black">440.8--443.8 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#A6DBAB, #A6DBAB, #99D69F); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Hirnantian</h4>
-<h5 style="color:black">443.8--445.2 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#99D69F, #99D69F, #8CD094); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Katian</h4>
-<h5 style="color:black">445.2--453 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#8CD094, #8CD094, #74C69C); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Sandbian</h4>
-<h5 style="color:black">453--458.4 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#74C69C, #74C69C, #66C092); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Darriwilian</h4>
-<h5 style="color:black">458.4--467.3 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#66C092, #66C092, #41B087); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Dapingian</h4>
-<h5 style="color:black">467.3--470 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#41B087, #41B087, #33A97E); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Floian</h4>
-<h5 style="color:black">470--477.7 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#33A97E, #33A97E, #E6F5C9); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Tremadocian</h4>
-<h5 style="color:black">477.7--485.4 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#E6F5C9, #E6F5C9, #D9F0BB); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Stage 10</h4>
-<h5 style="color:black">485.4--489.5 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#D9F0BB, #D9F0BB, #CCEBAE); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Jiangshanian</h4>
-<h5 style="color:black">489.5--494 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#CCEBAE, #CCEBAE, #CCDFAA); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Paibian</h4>
-<h5 style="color:black">494--497 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#CCDFAA, #CCDFAA, #BFD99D); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Guzhangian</h4>
-<h5 style="color:black">497--500.5 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#BFD99D, #BFD99D, #B3D492); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Drumian</h4>
-<h5 style="color:black">500.5--504.5 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#B3D492, #B3D492, #B3CA8E); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Wuliuan</h4>
-<h5 style="color:black">504.5--509 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#B3CA8E, #B3CA8E, #A6C583); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Stage 4</h4>
-<h5 style="color:black">509--514 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#A6C583, #A6C583, #A6BA80); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Stage 3</h4>
-<h5 style="color:black">514--521 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#A6BA80, #A6BA80, #99B575); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Stage 2</h4>
-<h5 style="color:black">521--529 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#99B575, #99B575, #FFC3E1); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Fortunian</h4>
-<h5 style="color:black">529--538.8 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFC3E1, #FFC3E1, #FFAFD7); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Ediacaran</h4>
-<h5 style="color:black">538.8--635 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFAFD7, #FFAFD7, #FFA5D2); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Cryogenian</h4>
-<h5 style="color:black">635--720 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFA5D2, #FFA5D2, #FFA5D2); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Tonian</h4>
-<h5 style="color:black">720--1000 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FFA5D2, #FFA5D2, #FF98CC); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Stenian</h4>
-<h5 style="color:black">1000--1200 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FF98CC, #FF98CC, #FF8BC5); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Ectasian</h4>
-<h5 style="color:black">1200--1400 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FF8BC5, #FF8BC5, #EE93C1); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Calymmian</h4>
-<h5 style="color:black">1400--1600 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#EE93C1, #EE93C1, #E874AF); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Statherian</h4>
-<h5 style="color:black">1600--1800 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#E874AF, #E874AF, #EB84B8); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Orosirian</h4>
-<h5 style="color:black">1800--2050 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#EB84B8, #EB84B8, #E874AF); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Rhyacian</h4>
-<h5 style="color:black">2050--2300 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#E874AF, #E874AF, #FF5CAD); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Siderian</h4>
-<h5 style="color:black">2300--2500 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#FF5CAD, #FF5CAD, #E62E8A); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:black">Neoarchean</h4>
-<h5 style="color:black">2500--2800 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#E62E8A, #E62E8A, #CC297A); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:white">Mesoarchean</h4>
-<h5 style="color:white">2800--3200 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#CC297A, #CC297A, #B2246B); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:white">Paleoarchean</h4>
-<h5 style="color:white">3200--3600 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#B2246B, #B2246B, #a2247c); height:100vh; width:100%">
-<div class="sticky">
-<h4 style="color:white">Eoarchean</h4>
-<h5 style="color:white">3600--4000 Ma</h5>
-</div>
-</div>
-
-<div style="background-image:linear-gradient(#a2247c, #a2247c, #a2247c); height:100vh; width:100%">
-
-<div class="sticky">
-<h4 style="color:white">Hadean</h4>
-<h5 style="color:white">4000--4567 Ma</h5>
-</div>
-</div>
+
+
+
+::: {.Quaternary .h1}  
+
+# Quaternary  
+
+:::  
+
+
+::: {.Piacenzian .h1}  
+
+# Piacenzian  
+
+:::  
+
+
+::: {.Zanclean .h1}  
+
+# Zanclean  
+
+:::  
+
+
+::: {.Messinian .h1}  
+
+# Messinian  
+
+:::  
+
+
+::: {.Tortonian .h1}  
+
+# Tortonian  
+
+:::  
+
+
+::: {.Serravallian .h1}  
+
+# Serravallian  
+
+:::  
+
+
+::: {.Langhian .h1}  
+
+# Langhian  
+
+:::  
+
+
+::: {.Burdigalian .h1}  
+
+# Burdigalian  
+
+:::  
+
+
+::: {.Aquitanian .h1}  
+
+# Aquitanian  
+
+:::  
+
+
+::: {.Chattian .h1}  
+
+# Chattian  
+
+:::  
+
+
+::: {.Rupelian .h1}  
+
+# Rupelian  
+
+:::  
+
+
+::: {.Priabonian .h1}  
+
+# Priabonian  
+
+:::  
+
+
+::: {.Bartonian .h1}  
+
+# Bartonian  
+
+:::  
+
+
+::: {.Lutetian .h1}  
+
+# Lutetian  
+
+:::  
+
+
+::: {.Ypresian .h1}  
+
+# Ypresian  
+
+:::  
+
+
+::: {.Thanetian .h1}  
+
+# Thanetian  
+
+:::  
+
+
+::: {.Selandian .h1}  
+
+# Selandian  
+
+:::  
+
+
+::: {.Danian .h1}  
+
+# Danian  
+
+:::  
+
+
+::: {.Maastrichtian .h1}  
+
+# Maastrichtian  
+
+![](./assets/images/dinosaur-extinction.png)
+
+:::  
+
+
+::: {.Campanian .h1}  
+
+# Campanian  
+
+:::  
+
+
+::: {.Santonian .h1}  
+
+# Santonian  
+
+:::  
+
+
+::: {.Coniacian .h1}  
+
+# Coniacian  
+
+:::  
+
+
+::: {.Turonian .h1}  
+
+# Turonian  
+
+:::  
+
+
+::: {.Cenomanian .h1}  
+
+# Cenomanian  
+
+:::  
+
+
+::: {.Albian .h1}  
+
+# Albian  
+
+:::  
+
+
+::: {.Aptian .h1}  
+
+# Aptian  
+
+:::  
+
+
+::: {.Barremian .h1}  
+
+# Barremian  
+
+:::  
+
+
+::: {.Hauterivian .h1}  
+
+# Hauterivian  
+
+:::  
+
+
+::: {.Valanginian .h1}  
+
+# Valanginian  
+
+:::  
+
+
+::: {.Berriasian .h1}  
+
+# Berriasian  
+
+:::  
+
+
+::: {.Tithonian .h1}  
+
+# Tithonian  
+
+:::  
+
+
+::: {.Kimmeridgian .h1}  
+
+# Kimmeridgian  
+
+:::  
+
+
+::: {.Oxfordian .h1}  
+
+# Oxfordian  
+
+:::  
+
+
+::: {.Callovian .h1}  
+
+# Callovian  
+
+:::  
+
+
+::: {.Bathonian .h1}  
+
+# Bathonian  
+
+:::  
+
+
+::: {.Bajocian .h1}  
+
+# Bajocian  
+
+:::  
+
+
+::: {.Aalenian .h1}  
+
+# Aalenian  
+
+:::  
+
+
+::: {.Toarcian .h1}  
+
+# Toarcian  
+
+:::  
+
+
+::: {.Pliensbachian .h1}  
+
+# Pliensbachian  
+
+:::  
+
+
+::: {.Sinemurian .h1}  
+
+# Sinemurian  
+
+:::  
+
+
+::: {.Hettangian .h1}  
+
+# Hettangian  
+
+:::  
+
+
+::: {.Rhaetian .h1}  
+
+# Rhaetian  
+
+:::  
+
+
+::: {.Norian .h1}  
+
+# Norian  
+
+:::  
+
+
+::: {.Carnian .h1}  
+
+# Carnian  
+
+:::  
+
+
+::: {.Ladinian .h1}  
+
+# Ladinian  
+
+:::  
+
+
+::: {.Anisian .h1}  
+
+# Anisian  
+
+:::  
+
+
+::: {.Olenekian .h1}  
+
+# Olenekian  
+
+:::  
+
+
+::: {.Induan .h1}  
+
+# Induan  
+
+:::  
+
+
+::: {.Changhsingian .h1}  
+
+# Changhsingian  
+
+:::  
+
+
+::: {.Wuchiapingian .h1}  
+
+# Wuchiapingian  
+
+:::  
+
+
+::: {.Capitanian .h1}  
+
+# Capitanian  
+
+:::  
+
+
+::: {.Wordian .h1}  
+
+# Wordian  
+
+:::  
+
+
+::: {.Roadian .h1}  
+
+# Roadian  
+
+:::  
+
+
+::: {.Kungurian .h1}  
+
+# Kungurian  
+
+:::  
+
+
+::: {.Artinskian .h1}  
+
+# Artinskian  
+
+:::  
+
+
+::: {.Sakmarian .h1}  
+
+# Sakmarian  
+
+:::  
+
+
+::: {.Asselian .h1}  
+
+# Asselian  
+
+:::  
+
+
+::: {.Gzhelian .h1}  
+
+# Gzhelian  
+
+:::  
+
+
+::: {.Kasimovian .h1}  
+
+# Kasimovian  
+
+:::  
+
+
+::: {.Moscovian .h1}  
+
+# Moscovian  
+
+:::  
+
+
+::: {.Bashkirian .h1}  
+
+# Bashkirian  
+
+:::  
+
+
+::: {.Serpukhovian .h1}  
+
+# Serpukhovian  
+
+:::  
+
+
+::: {.Visean .h1}  
+
+# Visean  
+
+:::  
+
+
+::: {.Tournaisian .h1}  
+
+# Tournaisian  
+
+:::  
+
+
+::: {.Famennian .h1}  
+
+# Famennian  
+
+:::  
+
+
+::: {.Frasnian .h1}  
+
+# Frasnian  
+
+:::  
+
+
+::: {.Givetian .h1}  
+
+# Givetian  
+
+:::  
+
+
+::: {.Eifelian .h1}  
+
+# Eifelian  
+
+:::  
+
+
+::: {.Emsian .h1}  
+
+# Emsian  
+
+:::  
+
+
+::: {.Pragian .h1}  
+
+# Pragian  
+
+:::  
+
+
+::: {.Lochkovian .h1}  
+
+# Lochkovian  
+
+:::  
+
+
+::: {.Pridoli .h1}  
+
+# Pridoli  
+
+:::  
+
+
+::: {.Ludfordian .h1}  
+
+# Ludfordian  
+
+:::  
+
+
+::: {.Gorstian .h1}  
+
+# Gorstian  
+
+:::  
+
+
+::: {.Homerian .h1}  
+
+# Homerian  
+
+:::  
+
+
+::: {.Sheinwoodian .h1}  
+
+# Sheinwoodian  
+
+:::  
+
+
+::: {.Telychian .h1}  
+
+# Telychian  
+
+:::  
+
+
+::: {.Aeronian .h1}  
+
+# Aeronian  
+
+:::  
+
+
+::: {.Rhuddanian .h1}  
+
+# Rhuddanian  
+
+:::  
+
+
+::: {.Hirnantian .h1}  
+
+# Hirnantian  
+
+:::  
+
+
+::: {.Katian .h1}  
+
+# Katian  
+
+:::  
+
+
+::: {.Sandbian .h1}  
+
+# Sandbian  
+
+:::  
+
+
+::: {.Darriwilian .h1}  
+
+# Darriwilian  
+
+:::  
+
+
+::: {.Dapingian .h1}  
+
+# Dapingian  
+
+:::  
+
+
+::: {.Floian .h1}  
+
+# Floian  
+
+:::  
+
+
+::: {.Tremadocian .h1}  
+
+# Tremadocian  
+
+:::  
+
+
+::: {.Stage-10 .h1}  
+
+# Stage-10  
+
+:::  
+
+
+::: {.Jiangshanian .h1}  
+
+# Jiangshanian  
+
+:::  
+
+
+::: {.Paibian .h1}  
+
+# Paibian  
+
+:::  
+
+
+::: {.Guzhangian .h1}  
+
+# Guzhangian  
+
+:::  
+
+
+::: {.Drumian .h1}  
+
+# Drumian  
+
+:::  
+
+
+::: {.Wuliuan .h1}  
+
+# Wuliuan  
+
+:::  
+
+
+::: {.Stage-4 .h1}  
+
+# Stage-4  
+
+:::  
+
+
+::: {.Stage-3 .h1}  
+
+# Stage-3  
+
+:::  
+
+
+::: {.Stage-2 .h1}  
+
+# Stage-2  
+
+:::  
+
+
+::: {.Fortunian .h1}  
+
+# Fortunian  
+
+:::  
+
+<div id="scrollPosition">Scroll Position: 0</div>
+<script src="script.js"></script>
