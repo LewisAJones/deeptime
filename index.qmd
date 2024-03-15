@@ -6,11 +6,20 @@ toc: false
 page-layout: custom
 ---   
 
+::: {.landing-container}
 
+<h2>Origins</h2>
+<h3>Earth's Geological History</h3>
+<div class="container">
+  <img src="assets/earth.png" alt="Earth" class="earth-img">
+</div>
+<h4>Made by Lewis A. Jones and Miranta Kouvari</h4>
+
+:::
 
 ::: {.Quaternary .h1}  
 
-# Quaternary
+# Quaternary  
 
 :::  
 
