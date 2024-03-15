@@ -6,8 +6,9 @@ toc: false
 page-layout: custom
 ---   
 
-::: {.landing-container .stars}
+::: {.landing-container}
 
+<div class="stars">
   <div class="star" style="--i: 0;"></div>
   <div class="star" style="--i: 1;"></div>
   <div class="star" style="--i: 2;"></div>
@@ -28,6 +29,7 @@ page-layout: custom
   <div class="star" style="--i: 17;"></div>
   <div class="star" style="--i: 18;"></div>
   <div class="star" style="--i: 19;"></div>
+</div>
 
 <h2>Origins</h2>
 <h3>Earth's Geological History</h3>
