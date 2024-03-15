@@ -4,862 +4,958 @@
   position: absolute; 
   width: 100%; 
   top: 800px; 
-  height: 1290px; 
+  height: 1292px; 
   color: black;  
-  background: linear-gradient(to bottom, white, #F9F97F);  
+  background: linear-gradient(to bottom, #F9F97F, #FFFFBF);  
+  opacity: 1;  
 }
 
 .Piacenzian { 
   position: absolute; 
   width: 100%; 
   top: 2090px; 
-  height: 510px; 
+  height: 512px; 
   color: black;  
-  background: linear-gradient(to bottom, #F9F97F, #FFFFBF);  
+  background: linear-gradient(to bottom, #FFFFBF, #FFFFB3);  
+  opacity: 1;  
 }
 
 .Zanclean { 
   position: absolute; 
   width: 100%; 
   top: 2600px; 
-  height: 866.5px; 
+  height: 869px; 
   color: black;  
-  background: linear-gradient(to bottom, #FFFFBF, #FFFFB3);  
+  background: linear-gradient(to bottom, #FFFFB3, #FFFF73);  
+  opacity: 1;  
 }
 
 .Messinian { 
   position: absolute; 
   width: 100%; 
-  top: 3466.5px; 
-  height: 956.5px; 
+  top: 3466px; 
+  height: 959px; 
   color: black;  
-  background: linear-gradient(to bottom, #FFFFB3, #FFFF73);  
+  background: linear-gradient(to bottom, #FFFF73, #FFFF66);  
+  opacity: 1;  
 }
 
 .Tortonian { 
   position: absolute; 
   width: 100%; 
   top: 4423px; 
-  height: 2192px; 
+  height: 2194px; 
   color: black;  
-  background: linear-gradient(to bottom, #FFFF73, #FFFF66);  
+  background: linear-gradient(to bottom, #FFFF66, #FFFF59);  
+  opacity: 1;  
 }
 
 .Serravallian { 
   position: absolute; 
   width: 100%; 
   top: 6615px; 
-  height: 1095px; 
+  height: 1097px; 
   color: black;  
-  background: linear-gradient(to bottom, #FFFF66, #FFFF59);  
+  background: linear-gradient(to bottom, #FFFF59, #FFFF4D);  
+  opacity: 1;  
 }
 
 .Langhian { 
   position: absolute; 
   width: 100%; 
   top: 7710px; 
-  height: 1075px; 
+  height: 1077px; 
   color: black;  
-  background: linear-gradient(to bottom, #FFFF59, #FFFF4D);  
+  background: linear-gradient(to bottom, #FFFF4D, #FFFF41);  
+  opacity: 1;  
 }
 
 .Burdigalian { 
   position: absolute; 
   width: 100%; 
   top: 8785px; 
-  height: 2235px; 
+  height: 2237px; 
   color: black;  
-  background: linear-gradient(to bottom, #FFFF4D, #FFFF41);  
+  background: linear-gradient(to bottom, #FFFF41, #FFFF33);  
+  opacity: 1;  
 }
 
 .Aquitanian { 
   position: absolute; 
   width: 100%; 
   top: 11020px; 
-  height: 1295px; 
+  height: 1297px; 
   color: black;  
-  background: linear-gradient(to bottom, #FFFF41, #FFFF33);  
+  background: linear-gradient(to bottom, #FFFF33, #FEE6AA);  
+  opacity: 1;  
 }
 
 .Chattian { 
   position: absolute; 
   width: 100%; 
   top: 12315px; 
-  height: 2395px; 
+  height: 2397px; 
   color: black;  
-  background: linear-gradient(to bottom, #FFFF33, #FEE6AA);  
+  background: linear-gradient(to bottom, #FEE6AA, #FED99A);  
+  opacity: 1;  
 }
 
 .Rupelian { 
   position: absolute; 
   width: 100%; 
   top: 14710px; 
-  height: 3040px; 
+  height: 3042px; 
   color: black;  
-  background: linear-gradient(to bottom, #FEE6AA, #FED99A);  
+  background: linear-gradient(to bottom, #FED99A, #FDCDA1);  
+  opacity: 1;  
 }
 
 .Priabonian { 
   position: absolute; 
   width: 100%; 
   top: 17750px; 
-  height: 1905px; 
+  height: 1907px; 
   color: black;  
-  background: linear-gradient(to bottom, #FED99A, #FDCDA1);  
+  background: linear-gradient(to bottom, #FDCDA1, #FDC091);  
+  opacity: 1;  
 }
 
 .Bartonian { 
   position: absolute; 
   width: 100%; 
   top: 19655px; 
-  height: 1745px; 
+  height: 1747px; 
   color: black;  
-  background: linear-gradient(to bottom, #FDCDA1, #FDC091);  
+  background: linear-gradient(to bottom, #FDC091, #FCB482);  
+  opacity: 1;  
 }
 
 .Lutetian { 
   position: absolute; 
   width: 100%; 
   top: 21400px; 
-  height: 3300px; 
+  height: 3302px; 
   color: black;  
-  background: linear-gradient(to bottom, #FDC091, #FCB482);  
+  background: linear-gradient(to bottom, #FCB482, #FCA773);  
+  opacity: 1;  
 }
 
 .Ypresian { 
   position: absolute; 
   width: 100%; 
   top: 24700px; 
-  height: 4100px; 
+  height: 4102px; 
   color: black;  
-  background: linear-gradient(to bottom, #FCB482, #FCA773);  
+  background: linear-gradient(to bottom, #FCA773, #FDBF6F);  
+  opacity: 1;  
 }
 
 .Thanetian { 
   position: absolute; 
   width: 100%; 
   top: 28800px; 
-  height: 1600px; 
+  height: 1602px; 
   color: black;  
-  background: linear-gradient(to bottom, #FCA773, #FDBF6F);  
+  background: linear-gradient(to bottom, #FDBF6F, #FEBF65);  
+  opacity: 1;  
 }
 
 .Selandian { 
   position: absolute; 
   width: 100%; 
   top: 30400px; 
-  height: 1200px; 
+  height: 1202px; 
   color: black;  
-  background: linear-gradient(to bottom, #FDBF6F, #FEBF65);  
+  background: linear-gradient(to bottom, #FEBF65, #FDB462);  
+  opacity: 1;  
 }
 
 .Danian { 
   position: absolute; 
   width: 100%; 
   top: 31600px; 
-  height: 2200px; 
+  height: 2202px; 
   color: black;  
-  background: linear-gradient(to bottom, #FEBF65, #FDB462);  
+  background: linear-gradient(to bottom, #FDB462, #F2FA8C);  
+  opacity: 1;  
 }
 
 .Maastrichtian { 
   position: absolute; 
   width: 100%; 
   top: 33800px; 
-  height: 3050px; 
+  height: 3052px; 
   color: black;  
-  background: linear-gradient(to bottom, #FDB462, #F2FA8C);  
+  background: linear-gradient(to bottom, #F2FA8C, #E6F47F);  
+  opacity: 1;  
 }
 
 .Campanian { 
   position: absolute; 
   width: 100%; 
   top: 36850px; 
-  height: 5750px; 
+  height: 5752px; 
   color: black;  
-  background: linear-gradient(to bottom, #F2FA8C, #E6F47F);  
+  background: linear-gradient(to bottom, #E6F47F, #D9EF74);  
+  opacity: 1;  
 }
 
 .Santonian { 
   position: absolute; 
   width: 100%; 
   top: 42600px; 
-  height: 1350px; 
+  height: 1352px; 
   color: black;  
-  background: linear-gradient(to bottom, #E6F47F, #D9EF74);  
+  background: linear-gradient(to bottom, #D9EF74, #CCE968);  
+  opacity: 1;  
 }
 
 .Coniacian { 
   position: absolute; 
   width: 100%; 
   top: 43950px; 
-  height: 1750px; 
+  height: 1752px; 
   color: black;  
-  background: linear-gradient(to bottom, #D9EF74, #CCE968);  
+  background: linear-gradient(to bottom, #CCE968, #BFE35D);  
+  opacity: 1;  
 }
 
 .Turonian { 
   position: absolute; 
   width: 100%; 
   top: 45700px; 
-  height: 2050px; 
+  height: 2052px; 
   color: black;  
-  background: linear-gradient(to bottom, #CCE968, #BFE35D);  
+  background: linear-gradient(to bottom, #BFE35D, #B3DE53);  
+  opacity: 1;  
 }
 
 .Cenomanian { 
   position: absolute; 
   width: 100%; 
   top: 47750px; 
-  height: 3300px; 
+  height: 3302px; 
   color: black;  
-  background: linear-gradient(to bottom, #BFE35D, #B3DE53);  
+  background: linear-gradient(to bottom, #B3DE53, #CCEA97);  
+  opacity: 1;  
 }
 
 .Albian { 
   position: absolute; 
   width: 100%; 
   top: 51050px; 
-  height: 6250px; 
+  height: 6252px; 
   color: black;  
-  background: linear-gradient(to bottom, #B3DE53, #CCEA97);  
+  background: linear-gradient(to bottom, #CCEA97, #BFE48A);  
+  opacity: 1;  
 }
 
 .Aptian { 
   position: absolute; 
   width: 100%; 
   top: 57300px; 
-  height: 4200px; 
+  height: 4202px; 
   color: black;  
-  background: linear-gradient(to bottom, #CCEA97, #BFE48A);  
+  background: linear-gradient(to bottom, #BFE48A, #B3DF7F);  
+  opacity: 1;  
 }
 
 .Barremian { 
   position: absolute; 
   width: 100%; 
   top: 61500px; 
-  height: 4000px; 
+  height: 4002px; 
   color: black;  
-  background: linear-gradient(to bottom, #BFE48A, #B3DF7F);  
+  background: linear-gradient(to bottom, #B3DF7F, #A6D975);  
+  opacity: 1;  
 }
 
 .Hauterivian { 
   position: absolute; 
   width: 100%; 
   top: 65500px; 
-  height: 1600px; 
+  height: 1602px; 
   color: black;  
-  background: linear-gradient(to bottom, #B3DF7F, #A6D975);  
+  background: linear-gradient(to bottom, #A6D975, #99D36A);  
+  opacity: 1;  
 }
 
 .Valanginian { 
   position: absolute; 
   width: 100%; 
   top: 67100px; 
-  height: 3600px; 
+  height: 3602px; 
   color: black;  
-  background: linear-gradient(to bottom, #A6D975, #99D36A);  
+  background: linear-gradient(to bottom, #99D36A, #8CCD60);  
+  opacity: 1;  
 }
 
 .Berriasian { 
   position: absolute; 
   width: 100%; 
   top: 70700px; 
-  height: 2600px; 
+  height: 2602px; 
   color: black;  
-  background: linear-gradient(to bottom, #99D36A, #8CCD60);  
+  background: linear-gradient(to bottom, #8CCD60, #D9F1F7);  
+  opacity: 1;  
 }
 
 .Tithonian { 
   position: absolute; 
   width: 100%; 
   top: 73300px; 
-  height: 2100px; 
+  height: 2102px; 
   color: black;  
-  background: linear-gradient(to bottom, #8CCD60, #D9F1F7);  
+  background: linear-gradient(to bottom, #D9F1F7, #CCECF4);  
+  opacity: 1;  
 }
 
 .Kimmeridgian { 
   position: absolute; 
   width: 100%; 
   top: 75400px; 
-  height: 2800px; 
+  height: 2802px; 
   color: black;  
-  background: linear-gradient(to bottom, #D9F1F7, #CCECF4);  
+  background: linear-gradient(to bottom, #CCECF4, #BFE7F1);  
+  opacity: 1;  
 }
 
 .Oxfordian { 
   position: absolute; 
   width: 100%; 
   top: 78200px; 
-  height: 3350px; 
+  height: 3352px; 
   color: black;  
-  background: linear-gradient(to bottom, #CCECF4, #BFE7F1);  
+  background: linear-gradient(to bottom, #BFE7F1, #BFE7E5);  
+  opacity: 1;  
 }
 
 .Callovian { 
   position: absolute; 
   width: 100%; 
   top: 81550px; 
-  height: 1900px; 
+  height: 1902px; 
   color: black;  
-  background: linear-gradient(to bottom, #BFE7F1, #BFE7E5);  
+  background: linear-gradient(to bottom, #BFE7E5, #B3E2E3);  
+  opacity: 1;  
 }
 
 .Bathonian { 
   position: absolute; 
   width: 100%; 
   top: 83450px; 
-  height: 1450px; 
+  height: 1452px; 
   color: black;  
-  background: linear-gradient(to bottom, #BFE7E5, #B3E2E3);  
+  background: linear-gradient(to bottom, #B3E2E3, #A6DDE0);  
+  opacity: 1;  
 }
 
 .Bajocian { 
   position: absolute; 
   width: 100%; 
   top: 84900px; 
-  height: 1350px; 
+  height: 1352px; 
   color: black;  
-  background: linear-gradient(to bottom, #B3E2E3, #A6DDE0);  
+  background: linear-gradient(to bottom, #A6DDE0, #9AD9DD);  
+  opacity: 1;  
 }
 
 .Aalenian { 
   position: absolute; 
   width: 100%; 
   top: 86250px; 
-  height: 1900px; 
+  height: 1902px; 
   color: black;  
-  background: linear-gradient(to bottom, #A6DDE0, #9AD9DD);  
+  background: linear-gradient(to bottom, #9AD9DD, #99CEE3);  
+  opacity: 1;  
 }
 
 .Toarcian { 
   position: absolute; 
   width: 100%; 
   top: 88150px; 
-  height: 4750px; 
+  height: 4752px; 
   color: black;  
-  background: linear-gradient(to bottom, #9AD9DD, #99CEE3);  
+  background: linear-gradient(to bottom, #99CEE3, #80C5DD);  
+  opacity: 1;  
 }
 
 .Pliensbachian { 
   position: absolute; 
   width: 100%; 
   top: 92900px; 
-  height: 4350px; 
+  height: 4352px; 
   color: black;  
-  background: linear-gradient(to bottom, #99CEE3, #80C5DD);  
+  background: linear-gradient(to bottom, #80C5DD, #67BCD8);  
+  opacity: 1;  
 }
 
 .Sinemurian { 
   position: absolute; 
   width: 100%; 
   top: 97250px; 
-  height: 3300px; 
+  height: 3302px; 
   color: black;  
-  background: linear-gradient(to bottom, #80C5DD, #67BCD8);  
+  background: linear-gradient(to bottom, #67BCD8, #4EB3D3);  
+  opacity: 1;  
 }
 
 .Hettangian { 
   position: absolute; 
   width: 100%; 
   top: 100550px; 
-  height: 950px; 
+  height: 952px; 
   color: black;  
-  background: linear-gradient(to bottom, #67BCD8, #4EB3D3);  
+  background: linear-gradient(to bottom, #4EB3D3, #E3B9DB);  
+  opacity: 1;  
 }
 
 .Rhaetian { 
   position: absolute; 
   width: 100%; 
   top: 101500px; 
-  height: 3550px; 
+  height: 3552px; 
   color: black;  
-  background: linear-gradient(to bottom, #4EB3D3, #E3B9DB);  
+  background: linear-gradient(to bottom, #E3B9DB, #D6AAD3);  
+  opacity: 1;  
 }
 
 .Norian { 
   position: absolute; 
   width: 100%; 
   top: 105050px; 
-  height: 9250px; 
+  height: 9252px; 
   color: black;  
-  background: linear-gradient(to bottom, #E3B9DB, #D6AAD3);  
+  background: linear-gradient(to bottom, #D6AAD3, #C99BCB);  
+  opacity: 1;  
 }
 
 .Carnian { 
   position: absolute; 
   width: 100%; 
   top: 114300px; 
-  height: 5000px; 
+  height: 5002px; 
   color: black;  
-  background: linear-gradient(to bottom, #D6AAD3, #C99BCB);  
+  background: linear-gradient(to bottom, #C99BCB, #C983BF);  
+  opacity: 1;  
 }
 
 .Ladinian { 
   position: absolute; 
   width: 100%; 
   top: 119300px; 
-  height: 2500px; 
+  height: 2502px; 
   color: black;  
-  background: linear-gradient(to bottom, #C99BCB, #C983BF);  
+  background: linear-gradient(to bottom, #C983BF, #BC75B7);  
+  opacity: 1;  
 }
 
 .Anisian { 
   position: absolute; 
   width: 100%; 
   top: 121800px; 
-  height: 2600px; 
+  height: 2602px; 
   color: black;  
-  background: linear-gradient(to bottom, #C983BF, #BC75B7);  
+  background: linear-gradient(to bottom, #BC75B7, #B051A5);  
+  opacity: 1;  
 }
 
 .Olenekian { 
   position: absolute; 
   width: 100%; 
   top: 124400px; 
-  height: 2000px; 
+  height: 2002px; 
   color: black;  
-  background: linear-gradient(to bottom, #BC75B7, #B051A5);  
+  background: linear-gradient(to bottom, #B051A5, #A4469F);  
+  opacity: 1;  
 }
 
 .Induan { 
   position: absolute; 
   width: 100%; 
   top: 126400px; 
-  height: 351px; 
+  height: 353px; 
   color: black;  
-  background: linear-gradient(to bottom, #B051A5, #A4469F);  
+  background: linear-gradient(to bottom, #A4469F, #FCC0B2);  
+  opacity: 1;  
 }
 
 .Changhsingian { 
   position: absolute; 
   width: 100%; 
   top: 126751px; 
-  height: 1119px; 
+  height: 1121px; 
   color: black;  
-  background: linear-gradient(to bottom, #A4469F, #FCC0B2);  
+  background: linear-gradient(to bottom, #FCC0B2, #FCB4A2);  
+  opacity: 1;  
 }
 
 .Wuchiapingian { 
   position: absolute; 
   width: 100%; 
   top: 127870px; 
-  height: 2685px; 
+  height: 2687px; 
   color: black;  
-  background: linear-gradient(to bottom, #FCC0B2, #FCB4A2);  
+  background: linear-gradient(to bottom, #FCB4A2, #FB9A85);  
+  opacity: 1;  
 }
 
 .Capitanian { 
   position: absolute; 
   width: 100%; 
   top: 130555px; 
-  height: 2385px; 
+  height: 2387px; 
   color: black;  
-  background: linear-gradient(to bottom, #FCB4A2, #FB9A85);  
+  background: linear-gradient(to bottom, #FB9A85, #FB8D76);  
+  opacity: 1;  
 }
 
 .Wordian { 
   position: absolute; 
   width: 100%; 
   top: 132940px; 
-  height: 1310px; 
+  height: 1312px; 
   color: black;  
-  background: linear-gradient(to bottom, #FB9A85, #FB8D76);  
+  background: linear-gradient(to bottom, #FB8D76, #FB8069);  
+  opacity: 1;  
 }
 
 .Roadian { 
   position: absolute; 
   width: 100%; 
   top: 134250px; 
-  height: 3055px; 
+  height: 3057px; 
   color: black;  
-  background: linear-gradient(to bottom, #FB8D76, #FB8069);  
+  background: linear-gradient(to bottom, #FB8069, #E38776);  
+  opacity: 1;  
 }
 
 .Kungurian { 
   position: absolute; 
   width: 100%; 
   top: 137305px; 
-  height: 5245px; 
+  height: 5247px; 
   color: black;  
-  background: linear-gradient(to bottom, #FB8069, #E38776);  
+  background: linear-gradient(to bottom, #E38776, #E37B68);  
+  opacity: 1;  
 }
 
 .Artinskian { 
   position: absolute; 
   width: 100%; 
   top: 142550px; 
-  height: 3300px; 
+  height: 3302px; 
   color: black;  
-  background: linear-gradient(to bottom, #E38776, #E37B68);  
+  background: linear-gradient(to bottom, #E37B68, #E36F5C);  
+  opacity: 1;  
 }
 
 .Sakmarian { 
   position: absolute; 
   width: 100%; 
   top: 145850px; 
-  height: 1710px; 
+  height: 1712px; 
   color: black;  
-  background: linear-gradient(to bottom, #E37B68, #E36F5C);  
+  background: linear-gradient(to bottom, #E36F5C, #E36350);  
+  opacity: 1;  
 }
 
 .Asselian { 
   position: absolute; 
   width: 100%; 
   top: 147560px; 
-  height: 2690px; 
+  height: 2692px; 
   color: black;  
-  background: linear-gradient(to bottom, #E36F5C, #E36350);  
+  background: linear-gradient(to bottom, #E36350, #CCD4C7);  
+  opacity: 1;  
 }
 
 .Gzhelian { 
   position: absolute; 
   width: 100%; 
   top: 150250px; 
-  height: 2400px; 
+  height: 2402px; 
   color: black;  
-  background: linear-gradient(to bottom, #E36350, #CCD4C7);  
+  background: linear-gradient(to bottom, #CCD4C7, #BFD0C5);  
+  opacity: 1;  
 }
 
 .Kasimovian { 
   position: absolute; 
   width: 100%; 
   top: 152650px; 
-  height: 1650px; 
+  height: 1652px; 
   color: black;  
-  background: linear-gradient(to bottom, #CCD4C7, #BFD0C5);  
+  background: linear-gradient(to bottom, #BFD0C5, #C7CBB9);  
+  opacity: 1;  
 }
 
 .Moscovian { 
   position: absolute; 
   width: 100%; 
   top: 154300px; 
-  height: 4100px; 
+  height: 4102px; 
   color: black;  
-  background: linear-gradient(to bottom, #BFD0C5, #C7CBB9);  
+  background: linear-gradient(to bottom, #C7CBB9, #99C2B5);  
+  opacity: 1;  
 }
 
 .Bashkirian { 
   position: absolute; 
   width: 100%; 
   top: 158400px; 
-  height: 4000px; 
+  height: 4002px; 
   color: black;  
-  background: linear-gradient(to bottom, #C7CBB9, #99C2B5);  
+  background: linear-gradient(to bottom, #99C2B5, #BFC26B);  
+  opacity: 1;  
 }
 
 .Serpukhovian { 
   position: absolute; 
   width: 100%; 
   top: 162400px; 
-  height: 3850px; 
+  height: 3852px; 
   color: black;  
-  background: linear-gradient(to bottom, #99C2B5, #BFC26B);  
+  background: linear-gradient(to bottom, #BFC26B, #A6B96C);  
+  opacity: 1;  
 }
 
 .Visean { 
   position: absolute; 
   width: 100%; 
   top: 166250px; 
-  height: 7900px; 
+  height: 7902px; 
   color: black;  
-  background: linear-gradient(to bottom, #BFC26B, #A6B96C);  
+  background: linear-gradient(to bottom, #A6B96C, #8CB06C);  
+  opacity: 1;  
 }
 
 .Tournaisian { 
   position: absolute; 
   width: 100%; 
   top: 174150px; 
-  height: 6100px; 
+  height: 6102px; 
   color: black;  
-  background: linear-gradient(to bottom, #A6B96C, #8CB06C);  
+  background: linear-gradient(to bottom, #8CB06C, #F2EDC5);  
+  opacity: 1;  
 }
 
 .Famennian { 
   position: absolute; 
   width: 100%; 
   top: 180250px; 
-  height: 6650px; 
+  height: 6652px; 
   color: black;  
-  background: linear-gradient(to bottom, #8CB06C, #F2EDC5);  
+  background: linear-gradient(to bottom, #F2EDC5, #F2EDAD);  
+  opacity: 1;  
 }
 
 .Frasnian { 
   position: absolute; 
   width: 100%; 
   top: 186900px; 
-  height: 5250px; 
+  height: 5252px; 
   color: black;  
-  background: linear-gradient(to bottom, #F2EDC5, #F2EDAD);  
+  background: linear-gradient(to bottom, #F2EDAD, #F1E185);  
+  opacity: 1;  
 }
 
 .Givetian { 
   position: absolute; 
   width: 100%; 
   top: 192150px; 
-  height: 2500px; 
+  height: 2502px; 
   color: black;  
-  background: linear-gradient(to bottom, #F2EDAD, #F1E185);  
+  background: linear-gradient(to bottom, #F1E185, #F1D576);  
+  opacity: 1;  
 }
 
 .Eifelian { 
   position: absolute; 
   width: 100%; 
   top: 194650px; 
-  height: 2800px; 
+  height: 2802px; 
   color: black;  
-  background: linear-gradient(to bottom, #F1E185, #F1D576);  
+  background: linear-gradient(to bottom, #F1D576, #E5D075);  
+  opacity: 1;  
 }
 
 .Emsian { 
   position: absolute; 
   width: 100%; 
   top: 197450px; 
-  height: 7150px; 
+  height: 7152px; 
   color: black;  
-  background: linear-gradient(to bottom, #F1D576, #E5D075);  
+  background: linear-gradient(to bottom, #E5D075, #E5C468);  
+  opacity: 1;  
 }
 
 .Pragian { 
   position: absolute; 
   width: 100%; 
   top: 204600px; 
-  height: 1600px; 
+  height: 1602px; 
   color: black;  
-  background: linear-gradient(to bottom, #E5D075, #E5C468);  
+  background: linear-gradient(to bottom, #E5C468, #E5B75A);  
+  opacity: 1;  
 }
 
 .Lochkovian { 
   position: absolute; 
   width: 100%; 
   top: 206200px; 
-  height: 4200px; 
+  height: 4202px; 
   color: black;  
-  background: linear-gradient(to bottom, #E5C468, #E5B75A);  
+  background: linear-gradient(to bottom, #E5B75A, #E6F5E1);  
+  opacity: 1;  
 }
 
 .Pridoli { 
   position: absolute; 
   width: 100%; 
   top: 210400px; 
-  height: 1900px; 
+  height: 1902px; 
   color: black;  
-  background: linear-gradient(to bottom, #E5B75A, #E6F5E1);  
+  background: linear-gradient(to bottom, #E6F5E1, #D9F0DF);  
+  opacity: 1;  
 }
 
 .Ludfordian { 
   position: absolute; 
   width: 100%; 
   top: 212300px; 
-  height: 1300px; 
+  height: 1302px; 
   color: black;  
-  background: linear-gradient(to bottom, #E6F5E1, #D9F0DF);  
+  background: linear-gradient(to bottom, #D9F0DF, #CCECDD);  
+  opacity: 1;  
 }
 
 .Gorstian { 
   position: absolute; 
   width: 100%; 
   top: 213600px; 
-  height: 900px; 
+  height: 902px; 
   color: black;  
-  background: linear-gradient(to bottom, #D9F0DF, #CCECDD);  
+  background: linear-gradient(to bottom, #CCECDD, #CCEBD1);  
+  opacity: 1;  
 }
 
 .Homerian { 
   position: absolute; 
   width: 100%; 
   top: 214500px; 
-  height: 1550px; 
+  height: 1552px; 
   color: black;  
-  background: linear-gradient(to bottom, #CCECDD, #CCEBD1);  
+  background: linear-gradient(to bottom, #CCEBD1, #BFE6C3);  
+  opacity: 1;  
 }
 
 .Sheinwoodian { 
   position: absolute; 
   width: 100%; 
   top: 216050px; 
-  height: 1450px; 
+  height: 1452px; 
   color: black;  
-  background: linear-gradient(to bottom, #CCEBD1, #BFE6C3);  
+  background: linear-gradient(to bottom, #BFE6C3, #BFE6CF);  
+  opacity: 1;  
 }
 
 .Telychian { 
   position: absolute; 
   width: 100%; 
   top: 217500px; 
-  height: 2550px; 
+  height: 2552px; 
   color: black;  
-  background: linear-gradient(to bottom, #BFE6C3, #BFE6CF);  
+  background: linear-gradient(to bottom, #BFE6CF, #B3E1C2);  
+  opacity: 1;  
 }
 
 .Aeronian { 
   position: absolute; 
   width: 100%; 
   top: 220050px; 
-  height: 1150px; 
+  height: 1152px; 
   color: black;  
-  background: linear-gradient(to bottom, #BFE6CF, #B3E1C2);  
+  background: linear-gradient(to bottom, #B3E1C2, #A6DCB5);  
+  opacity: 1;  
 }
 
 .Rhuddanian { 
   position: absolute; 
   width: 100%; 
   top: 221200px; 
-  height: 1500px; 
+  height: 1502px; 
   color: black;  
-  background: linear-gradient(to bottom, #B3E1C2, #A6DCB5);  
+  background: linear-gradient(to bottom, #A6DCB5, #A6DBAB);  
+  opacity: 1;  
 }
 
 .Hirnantian { 
   position: absolute; 
   width: 100%; 
   top: 222700px; 
-  height: 700px; 
+  height: 702px; 
   color: black;  
-  background: linear-gradient(to bottom, #A6DCB5, #A6DBAB);  
+  background: linear-gradient(to bottom, #A6DBAB, #99D69F);  
+  opacity: 1;  
 }
 
 .Katian { 
   position: absolute; 
   width: 100%; 
   top: 223400px; 
-  height: 3900px; 
+  height: 3902px; 
   color: black;  
-  background: linear-gradient(to bottom, #A6DBAB, #99D69F);  
+  background: linear-gradient(to bottom, #99D69F, #8CD094);  
+  opacity: 1;  
 }
 
 .Sandbian { 
   position: absolute; 
   width: 100%; 
   top: 227300px; 
-  height: 2700px; 
+  height: 2702px; 
   color: black;  
-  background: linear-gradient(to bottom, #99D69F, #8CD094);  
+  background: linear-gradient(to bottom, #8CD094, #74C69C);  
+  opacity: 1;  
 }
 
 .Darriwilian { 
   position: absolute; 
   width: 100%; 
   top: 230000px; 
-  height: 4450px; 
+  height: 4452px; 
   color: black;  
-  background: linear-gradient(to bottom, #8CD094, #74C69C);  
+  background: linear-gradient(to bottom, #74C69C, #66C092);  
+  opacity: 1;  
 }
 
 .Dapingian { 
   position: absolute; 
   width: 100%; 
   top: 234450px; 
-  height: 1350px; 
+  height: 1352px; 
   color: black;  
-  background: linear-gradient(to bottom, #74C69C, #66C092);  
+  background: linear-gradient(to bottom, #66C092, #41B087);  
+  opacity: 1;  
 }
 
 .Floian { 
   position: absolute; 
   width: 100%; 
   top: 235800px; 
-  height: 3850px; 
+  height: 3852px; 
   color: black;  
-  background: linear-gradient(to bottom, #66C092, #41B087);  
+  background: linear-gradient(to bottom, #41B087, #33A97E);  
+  opacity: 1;  
 }
 
 .Tremadocian { 
   position: absolute; 
   width: 100%; 
   top: 239650px; 
-  height: 3850px; 
+  height: 3852px; 
   color: black;  
-  background: linear-gradient(to bottom, #41B087, #33A97E);  
+  background: linear-gradient(to bottom, #33A97E, #E6F5C9);  
+  opacity: 1;  
 }
 
 .Stage-10 { 
   position: absolute; 
   width: 100%; 
   top: 243500px; 
-  height: 2050px; 
+  height: 2052px; 
   color: black;  
-  background: linear-gradient(to bottom, #33A97E, #E6F5C9);  
+  background: linear-gradient(to bottom, #E6F5C9, #D9F0BB);  
+  opacity: 1;  
 }
 
 .Jiangshanian { 
   position: absolute; 
   width: 100%; 
   top: 245550px; 
-  height: 2250px; 
+  height: 2252px; 
   color: black;  
-  background: linear-gradient(to bottom, #E6F5C9, #D9F0BB);  
+  background: linear-gradient(to bottom, #D9F0BB, #CCEBAE);  
+  opacity: 1;  
 }
 
 .Paibian { 
   position: absolute; 
   width: 100%; 
   top: 247800px; 
-  height: 1500px; 
+  height: 1502px; 
   color: black;  
-  background: linear-gradient(to bottom, #D9F0BB, #CCEBAE);  
+  background: linear-gradient(to bottom, #CCEBAE, #CCDFAA);  
+  opacity: 1;  
 }
 
 .Guzhangian { 
   position: absolute; 
   width: 100%; 
   top: 249300px; 
-  height: 1750px; 
+  height: 1752px; 
   color: black;  
-  background: linear-gradient(to bottom, #CCEBAE, #CCDFAA);  
+  background: linear-gradient(to bottom, #CCDFAA, #BFD99D);  
+  opacity: 1;  
 }
 
 .Drumian { 
   position: absolute; 
   width: 100%; 
   top: 251050px; 
-  height: 2000px; 
+  height: 2002px; 
   color: black;  
-  background: linear-gradient(to bottom, #CCDFAA, #BFD99D);  
+  background: linear-gradient(to bottom, #BFD99D, #B3D492);  
+  opacity: 1;  
 }
 
 .Wuliuan { 
   position: absolute; 
   width: 100%; 
   top: 253050px; 
-  height: 2250px; 
+  height: 2252px; 
   color: black;  
-  background: linear-gradient(to bottom, #BFD99D, #B3D492);  
+  background: linear-gradient(to bottom, #B3D492, #B3CA8E);  
+  opacity: 1;  
 }
 
 .Stage-4 { 
   position: absolute; 
   width: 100%; 
   top: 255300px; 
-  height: 2500px; 
+  height: 2502px; 
   color: black;  
-  background: linear-gradient(to bottom, #B3D492, #B3CA8E);  
+  background: linear-gradient(to bottom, #B3CA8E, #A6C583);  
+  opacity: 1;  
 }
 
 .Stage-3 { 
   position: absolute; 
   width: 100%; 
   top: 257800px; 
-  height: 3500px; 
+  height: 3502px; 
   color: black;  
-  background: linear-gradient(to bottom, #B3CA8E, #A6C583);  
+  background: linear-gradient(to bottom, #A6C583, #A6BA80);  
+  opacity: 1;  
 }
 
 .Stage-2 { 
   position: absolute; 
   width: 100%; 
   top: 261300px; 
-  height: 4000px; 
+  height: 4002px; 
   color: black;  
-  background: linear-gradient(to bottom, #A6C583, #A6BA80);  
+  background: linear-gradient(to bottom, #A6BA80, #99B575);  
+  opacity: 1;  
 }
 
 .Fortunian { 
   position: absolute; 
   width: 100%; 
   top: 265300px; 
-  height: 4900px; 
+  height: 4902px; 
   color: black;  
-  background: linear-gradient(to bottom, #A6BA80, #99B575);  
+  background: linear-gradient(to bottom, #99B575, #99B575);  
+  opacity: 1;  
 }

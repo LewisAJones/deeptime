@@ -1,9 +1,10 @@
 ---
-pagetitle: "Welcome to Origins"
+pagetitle: "Origins"
 open-graph: true
 twitter-card: true
 toc: false
 page-layout: custom
+backgroundcolor: "#100751"
 ---   
 
 ::: {.landing-container}
@@ -710,6 +711,12 @@ page-layout: custom
 ::: {.Fortunian .h1}  
 
 # Fortunian  
+
+:::  
+
+::: {.foot-container}  
+
+## That's all for now!
 
 :::  
 

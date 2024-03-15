@@ -11,6 +11,19 @@ document.addEventListener('DOMContentLoaded', function() {
         if (dividedScrollPosition < 0.01) {
             dividedScrollPosition = 0; // Set scroll position to 0
         }
+
+        var threshold = 538.56; // Set your threshold value here
+        var body = document.getElementById('scrollPosition');
+
+        // Add or remove class based on scroll position
+        if (dividedScrollPosition > threshold) {
+            body.classList.add('custom-style');
+            body.classList.remove('default-style');
+        } else {
+            body.classList.add('default-style');
+            body.classList.remove('custom-style');
+        }
+
         scrollPositionElement.textContent = dividedScrollPosition + ' MILLION YEARS AGO';
     }
 

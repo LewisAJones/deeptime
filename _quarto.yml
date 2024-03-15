@@ -4,19 +4,19 @@ project:
 website:
   title: "Origins"
   site-url: https://origins.palaeobiology.org
-  description: "Scroll through Earth's History"
-  image: "images/dinosaur-extinction.png"
+  description: "Scroll through Earth's Geological History"
+  image: "assets/earth.png"
   favicon: "assets/favicon.png"
   search: false
   open-graph:
-    image: "images/dinosaur-extinction.png"
+    image: "assets/earth.png"
     image-width: 500
     image-height: 500
     locale: en-GB
   twitter-card:
     title: "Origins"
-    description: "Scroll through Earth's History"
-    image: "images/dinosaur-extinction.png"
+    description: "Scroll through Earth's Geological History"
+    image: "assets/earth.png"
     image-width: 500
     image-height: 500
     card-style: summary_large_image
