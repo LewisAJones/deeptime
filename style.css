@@ -130,9 +130,9 @@ html {
 }
 
 .container {
-    position: relative;
-    left: 40%;
-    width: 20%; /* Adjust width as needed */
+    margin: auto;
+    width: 80%;
+    padding: 10px;
     height: 300px; /* Adjust height as needed */
 }
 
@@ -145,7 +145,7 @@ html {
 }
 
 .earth-img {
-  width: 100%; /* Adjust width as needed */
+  height: 90%;
 }
 
 .absolute-img {
