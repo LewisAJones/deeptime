@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     function updateScrollPosition() {
         var scrollPosition = window.pageYOffset || document.documentElement.scrollTop;
         // Divide scroll position by 500
-        var dividedScrollPosition = ((scrollPosition / 500)-0.6).toFixed(2);;
+        var dividedScrollPosition = ((scrollPosition / 500)-0.5).toFixed(2);;
                 // Check if scroll position is less than 0
         if (dividedScrollPosition < 0.01) {
             dividedScrollPosition = 0; // Set scroll position to 0
