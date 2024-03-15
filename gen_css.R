@@ -10,7 +10,8 @@ colnames(stages)[which(colnames(stages) == "name")] <- "interval"
 stages <- stages[order(stages$min_age), ]
 stages$max_age <- (stages$max_age * 500) + 800
 stages$min_age <- (stages$min_age * 500) + 800
-stages$height <- (stages$max_age - stages$min_age)
+stages$height <- stages$max_age - stages$min_age
+
 stages$color_upper <- NA
 stages$color_upper[1] <- "white"
 stages$color_upper[2:nrow(stages)] <- stages$color[1:(nrow(stages)-1)]

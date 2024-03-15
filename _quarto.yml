@@ -24,6 +24,7 @@ website:
     site: "@LewisAlanJones"
   navbar:
     title: Origins
+    pinned: false
     collapse: true
     foreground: "white"
     background: "#201c2f"
